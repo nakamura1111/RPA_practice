@@ -21,12 +21,18 @@ project_info = """
 """
 
 def create_regex_sentence(input):
-  result = "r'''\n"
+  result = "r'"
   for tmp in input:
-    result = result + tmp + '\n'
-  result = result + "'''"
+    result += tmp
+  result += "'"
   logging.debug(result)
   return result
+  # result = "r'''\n"
+  # for tmp in input:
+  #   result = result + tmp + '\n'
+  # result = result + "'''"
+  # logging.debug(result)
+  # return result
 
 def main():
   regex_shelve = shelve.open('regex')
@@ -36,7 +42,7 @@ def main():
     print("what's mode?")
   # save モード
   elif sys.argv[1] == 'save':
-    print('--------\n正規表現入力\n 開始は「start」、終了は「stop」と入力\n 複数行表記可能、コメントあり(「re.VERBOSE」オプションつき)\n-------------\n\n')
+    print('--------\n正規表現入力\n 開始は「start」、終了は「stop」と入力\n 複数行表記可能、コメント・空欄なし\n-------------\n\n')
     new_regex_input = []
     new_regex_input.append(input())
     if new_regex_input[0] == 'start':
@@ -48,7 +54,7 @@ def main():
       new_regex_input.pop(0)
       new_regex_input.pop(-1)
       regex_sentence = create_regex_sentence(new_regex_input)
-      new_regex = re.compile(regex_sentence, re.VERBOSE)
+      new_regex = re.compile(regex_sentence)
       print('この正規表現の名前を入力してください')
       new_regex_name = input()
       regex_shelve[new_regex_name] = new_regex_input
@@ -67,9 +73,8 @@ def main():
       search_dir = os.getcwd()
       logging.debug('current dir : {}'.format(search_dir))
       regex_sentence = create_regex_sentence(regex_shelve[sys.argv[3]])
-      search_target_regex = re.compile(regex_sentence, re.VERBOSE)
-      logging.debug(search_target_regex.search('aastdaa'))
-      logging.debug(search_target_regex)
+      logging.info(regex_sentence)
+      search_target_regex = re.compile( regex_sentence )      # https://docs.python.org/2/library/re.html#re.escape
       extension_regex = re.compile('\.cpp$')
       for foldername, subfolders, filenames in os.walk(search_dir):
         logging.debug('searching  {}  folder ...'.format(foldername))
