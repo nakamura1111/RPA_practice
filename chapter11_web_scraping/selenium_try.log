@@ -1,0 +1,8 @@
+ 2020-12-07 14:24:02,735 - DEBUG - POST http://127.0.0.1:55309/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "platformName": "any", "goog:chromeOptions": {"extensions": [], "args": []}}}, "desiredCapabilities": {"browserName": "chrome", "version": "", "platform": "ANY", "goog:chromeOptions": {"extensions": [], "args": []}}}
+ 2020-12-07 14:24:02,737 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:55309
+ 2020-12-07 14:24:03,863 - DEBUG - http://127.0.0.1:55309 "POST /session HTTP/1.1" 200 726
+ 2020-12-07 14:24:03,867 - DEBUG - Finished Request
+ 2020-12-07 14:24:03,867 - DEBUG - class of webdriver : <class 'selenium.webdriver.chrome.webdriver.WebDriver'>
+ 2020-12-07 14:24:03,868 - DEBUG - POST http://127.0.0.1:55309/session/aaeb69c5d678bb058526785089e67507/url {"url": "https://google.co.jp"}
+ 2020-12-07 14:24:05,811 - DEBUG - http://127.0.0.1:55309 "POST /session/aaeb69c5d678bb058526785089e67507/url HTTP/1.1" 200 14
+ 2020-12-07 14:24:05,812 - DEBUG - Finished Request
