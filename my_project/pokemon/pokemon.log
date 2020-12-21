@@ -1,0 +1,130 @@
+ 2020-12-10 10:40:36,275 - DEBUG - /Users/nakamurakoyo/opt/anaconda3/lib/python3.8/site-packages/urllib3/connectionpool.py
+   Starting new HTTPS connection (1): yakkun.com:443
+ 2020-12-10 10:40:36,413 - DEBUG - /Users/nakamurakoyo/opt/anaconda3/lib/python3.8/site-packages/urllib3/connectionpool.py
+   https://yakkun.com:443 "GET /swsh/stats_list.htm HTTP/1.1" 200 None
+ 2020-12-10 10:40:53,566 - DEBUG - /Users/nakamurakoyo/opt/anaconda3/lib/python3.8/site-packages/urllib3/connectionpool.py
+   Starting new HTTPS connection (1): yakkun.com:443
+ 2020-12-10 10:40:53,680 - DEBUG - /Users/nakamurakoyo/opt/anaconda3/lib/python3.8/site-packages/urllib3/connectionpool.py
+   https://yakkun.com:443 "GET /swsh/stats_list.htm HTTP/1.1" 200 None
+ 2020-12-10 10:40:53,925 - DEBUG - basestat_get.py
+   []
+ 2020-12-10 10:42:21,590 - DEBUG - /Users/nakamurakoyo/opt/anaconda3/lib/python3.8/site-packages/urllib3/connectionpool.py
+   Starting new HTTPS connection (1): yakkun.com:443
+ 2020-12-10 10:42:21,709 - DEBUG - /Users/nakamurakoyo/opt/anaconda3/lib/python3.8/site-packages/urllib3/connectionpool.py
+   https://yakkun.com:443 "GET /swsh/stats_list.htm HTTP/1.1" 200 None
+ 2020-12-10 10:43:43,294 - DEBUG - /Users/nakamurakoyo/opt/anaconda3/lib/python3.8/site-packages/urllib3/connectionpool.py
+   Starting new HTTPS connection (1): yakkun.com:443
+ 2020-12-10 10:43:43,429 - DEBUG - /Users/nakamurakoyo/opt/anaconda3/lib/python3.8/site-packages/urllib3/connectionpool.py
+   https://yakkun.com:443 "GET /swsh/stats_list.htm HTTP/1.1" 200 None
+ 2020-12-10 10:44:54,378 - DEBUG - /Users/nakamurakoyo/opt/anaconda3/lib/python3.8/site-packages/urllib3/connectionpool.py
+   Starting new HTTPS connection (1): yakkun.com:443
+ 2020-12-10 10:44:54,495 - DEBUG - /Users/nakamurakoyo/opt/anaconda3/lib/python3.8/site-packages/urllib3/connectionpool.py
+   https://yakkun.com:443 "GET /swsh/stats_list.htm HTTP/1.1" 200 None
+ 2020-12-10 10:44:54,738 - DEBUG - basestat_get.py
+   0
+ 2020-12-10 10:45:46,833 - DEBUG - /Users/nakamurakoyo/opt/anaconda3/lib/python3.8/site-packages/urllib3/connectionpool.py
+   Starting new HTTPS connection (1): yakkun.com:443
+ 2020-12-10 10:45:46,972 - DEBUG - /Users/nakamurakoyo/opt/anaconda3/lib/python3.8/site-packages/urllib3/connectionpool.py
+   https://yakkun.com:443 "GET /swsh/stats_list.htm HTTP/1.1" 200 None
+ 2020-12-10 10:45:47,231 - DEBUG - basestat_get.py
+   1
+ 2020-12-10 10:52:50,049 - DEBUG - basestat_get.py
+   start function
+ 2020-12-10 10:52:50,383 - DEBUG - /Users/nakamurakoyo/opt/anaconda3/lib/python3.8/site-packages/urllib3/connectionpool.py
+   Starting new HTTPS connection (1): yakkun.com:443
+ 2020-12-10 10:52:50,535 - DEBUG - /Users/nakamurakoyo/opt/anaconda3/lib/python3.8/site-packages/urllib3/connectionpool.py
+   https://yakkun.com:443 "GET /swsh/stats_list.htm HTTP/1.1" 200 None
+ 2020-12-10 10:53:06,580 - DEBUG - basestat_get.py
+   start function
+ 2020-12-10 10:53:06,587 - DEBUG - /Users/nakamurakoyo/opt/anaconda3/lib/python3.8/site-packages/urllib3/connectionpool.py
+   Starting new HTTPS connection (1): yakkun.com:443
+ 2020-12-10 10:53:06,706 - DEBUG - /Users/nakamurakoyo/opt/anaconda3/lib/python3.8/site-packages/urllib3/connectionpool.py
+   https://yakkun.com:443 "GET /swsh/stats_list.htm HTTP/1.1" 200 None
+ 2020-12-10 10:53:51,164 - DEBUG - basestat_get.py
+   start function
+ 2020-12-10 10:53:51,171 - DEBUG - /Users/nakamurakoyo/opt/anaconda3/lib/python3.8/site-packages/urllib3/connectionpool.py
+   Starting new HTTPS connection (1): yakkun.com:443
+ 2020-12-10 10:53:51,289 - DEBUG - /Users/nakamurakoyo/opt/anaconda3/lib/python3.8/site-packages/urllib3/connectionpool.py
+   https://yakkun.com:443 "GET /swsh/stats_list.htm HTTP/1.1" 200 None
+ 2020-12-10 10:54:27,522 - DEBUG - basestat_get.py
+   start function
+ 2020-12-10 10:54:27,552 - DEBUG - /Users/nakamurakoyo/opt/anaconda3/lib/python3.8/site-packages/urllib3/connectionpool.py
+   Starting new HTTPS connection (1): yakkun.com:443
+ 2020-12-10 10:54:27,686 - DEBUG - /Users/nakamurakoyo/opt/anaconda3/lib/python3.8/site-packages/urllib3/connectionpool.py
+   https://yakkun.com:443 "GET /swsh/stats_list.htm HTTP/1.1" 200 None
+ 2020-12-10 10:54:40,565 - DEBUG - basestat_get.py
+   start function
+ 2020-12-10 10:54:40,577 - DEBUG - /Users/nakamurakoyo/opt/anaconda3/lib/python3.8/site-packages/urllib3/connectionpool.py
+   Starting new HTTPS connection (1): yakkun.com:443
+ 2020-12-10 10:54:40,684 - DEBUG - /Users/nakamurakoyo/opt/anaconda3/lib/python3.8/site-packages/urllib3/connectionpool.py
+   https://yakkun.com:443 "GET /swsh/stats_list.htm HTTP/1.1" 200 None
+ 2020-12-10 10:55:00,448 - DEBUG - basestat_get.py
+   start function
+ 2020-12-10 10:55:00,454 - DEBUG - /Users/nakamurakoyo/opt/anaconda3/lib/python3.8/site-packages/urllib3/connectionpool.py
+   Starting new HTTPS connection (1): yakkun.com:443
+ 2020-12-10 10:55:00,575 - DEBUG - /Users/nakamurakoyo/opt/anaconda3/lib/python3.8/site-packages/urllib3/connectionpool.py
+   https://yakkun.com:443 "GET /swsh/stats_list.htm HTTP/1.1" 200 None
+ 2020-12-10 10:56:51,034 - DEBUG - basestat_get.py
+   start function
+ 2020-12-10 10:56:51,068 - DEBUG - /Users/nakamurakoyo/opt/anaconda3/lib/python3.8/site-packages/urllib3/connectionpool.py
+   Starting new HTTPS connection (1): yakkun.com:443
+ 2020-12-10 10:56:51,213 - DEBUG - /Users/nakamurakoyo/opt/anaconda3/lib/python3.8/site-packages/urllib3/connectionpool.py
+   https://yakkun.com:443 "GET /swsh/stats_list.htm HTTP/1.1" 200 None
+ 2020-12-10 10:57:05,877 - DEBUG - basestat_get.py
+   start function
+ 2020-12-10 10:57:05,884 - DEBUG - /Users/nakamurakoyo/opt/anaconda3/lib/python3.8/site-packages/urllib3/connectionpool.py
+   Starting new HTTPS connection (1): yakkun.com:443
+ 2020-12-10 10:57:05,990 - DEBUG - /Users/nakamurakoyo/opt/anaconda3/lib/python3.8/site-packages/urllib3/connectionpool.py
+   https://yakkun.com:443 "GET /swsh/stats_list.htm HTTP/1.1" 200 None
+ 2020-12-10 10:57:38,104 - DEBUG - basestat_get.py
+   start function
+ 2020-12-10 10:57:38,117 - DEBUG - /Users/nakamurakoyo/opt/anaconda3/lib/python3.8/site-packages/urllib3/connectionpool.py
+   Starting new HTTPS connection (1): yakkun.com:443
+ 2020-12-10 10:57:38,246 - DEBUG - /Users/nakamurakoyo/opt/anaconda3/lib/python3.8/site-packages/urllib3/connectionpool.py
+   https://yakkun.com:443 "GET /swsh/stats_list.htm HTTP/1.1" 200 None
+ 2020-12-10 10:58:27,127 - DEBUG - basestat_get.py
+   start function
+ 2020-12-10 10:58:27,154 - DEBUG - /Users/nakamurakoyo/opt/anaconda3/lib/python3.8/site-packages/urllib3/connectionpool.py
+   Starting new HTTPS connection (1): yakkun.com:443
+ 2020-12-10 10:58:27,301 - DEBUG - /Users/nakamurakoyo/opt/anaconda3/lib/python3.8/site-packages/urllib3/connectionpool.py
+   https://yakkun.com:443 "GET /swsh/stats_list.htm HTTP/1.1" 200 None
+ 2020-12-10 10:58:40,074 - DEBUG - basestat_get.py
+   start function
+ 2020-12-10 10:58:40,093 - DEBUG - /Users/nakamurakoyo/opt/anaconda3/lib/python3.8/site-packages/urllib3/connectionpool.py
+   Starting new HTTPS connection (1): yakkun.com:443
+ 2020-12-10 10:58:40,220 - DEBUG - /Users/nakamurakoyo/opt/anaconda3/lib/python3.8/site-packages/urllib3/connectionpool.py
+   https://yakkun.com:443 "GET /swsh/stats_list.htm HTTP/1.1" 200 None
+ 2020-12-10 11:09:47,755 - DEBUG - basestat_get.py
+   start function
+ 2020-12-10 11:09:48,188 - DEBUG - /Users/nakamurakoyo/opt/anaconda3/lib/python3.8/site-packages/urllib3/connectionpool.py
+   Starting new HTTPS connection (1): yakkun.com:443
+ 2020-12-10 11:09:48,324 - DEBUG - /Users/nakamurakoyo/opt/anaconda3/lib/python3.8/site-packages/urllib3/connectionpool.py
+   https://yakkun.com:443 "GET /swsh/stats_list.htm HTTP/1.1" 200 None
+ 2020-12-10 11:11:24,043 - DEBUG - basestat_get.py
+   start function
+ 2020-12-10 11:11:24,070 - DEBUG - /Users/nakamurakoyo/opt/anaconda3/lib/python3.8/site-packages/urllib3/connectionpool.py
+   Starting new HTTPS connection (1): yakkun.com:443
+ 2020-12-10 11:11:24,181 - DEBUG - /Users/nakamurakoyo/opt/anaconda3/lib/python3.8/site-packages/urllib3/connectionpool.py
+   https://yakkun.com:443 "GET /swsh/stats_list.htm HTTP/1.1" 200 None
+ 2020-12-10 11:15:35,905 - DEBUG - basestat_get.py
+   start function
+ 2020-12-10 11:15:35,937 - DEBUG - /Users/nakamurakoyo/opt/anaconda3/lib/python3.8/site-packages/urllib3/connectionpool.py
+   Starting new HTTPS connection (1): yakkun.com:443
+ 2020-12-10 11:18:07,728 - DEBUG - basestat_get.py
+   start function
+ 2020-12-10 11:18:07,757 - DEBUG - /Users/nakamurakoyo/opt/anaconda3/lib/python3.8/site-packages/urllib3/connectionpool.py
+   Starting new HTTPS connection (1): yakkun.com:443
+ 2020-12-10 11:18:07,882 - DEBUG - /Users/nakamurakoyo/opt/anaconda3/lib/python3.8/site-packages/urllib3/connectionpool.py
+   https://yakkun.com:443 "GET /swsh/stats_list.htm HTTP/1.1" 200 None
+ 2020-12-10 11:18:54,672 - DEBUG - basestat_get.py
+   start function
+ 2020-12-10 11:18:54,709 - DEBUG - /Users/nakamurakoyo/opt/anaconda3/lib/python3.8/site-packages/urllib3/connectionpool.py
+   Starting new HTTPS connection (1): yakkun.com:443
+ 2020-12-10 11:18:54,907 - DEBUG - /Users/nakamurakoyo/opt/anaconda3/lib/python3.8/site-packages/urllib3/connectionpool.py
+   https://yakkun.com:443 "GET /swsh/stats_list.htm HTTP/1.1" 200 None
+ 2020-12-10 11:19:18,977 - DEBUG - basestat_get.py
+   start function
+ 2020-12-10 11:19:18,988 - DEBUG - /Users/nakamurakoyo/opt/anaconda3/lib/python3.8/site-packages/urllib3/connectionpool.py
+   Starting new HTTPS connection (1): yakkun.com:443
+ 2020-12-10 11:19:19,112 - DEBUG - /Users/nakamurakoyo/opt/anaconda3/lib/python3.8/site-packages/urllib3/connectionpool.py
+   https://yakkun.com:443 "GET /swsh/stats_list.htm HTTP/1.1" 200 None

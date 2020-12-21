@@ -1,0 +1,13 @@
+ 2020-12-08 17:13:52,558 - DEBUG - <class 'openpyxl.workbook.workbook.Workbook'>
+ 2020-12-08 17:13:52,559 - DEBUG - the name of instance : <Worksheet "initial_sheet"> - the class of sheet : <class 'openpyxl.worksheet.worksheet.Worksheet'> - sheet title : initial_sheet - active sheet : <Worksheet "initial_sheet">
+ 2020-12-08 17:18:21,018 - DEBUG - <class 'openpyxl.workbook.workbook.Workbook'>
+ 2020-12-08 17:18:21,020 - DEBUG - the name of instance : <Worksheet "initial_sheet"> - the class of sheet : <class 'openpyxl.worksheet.worksheet.Worksheet'> - sheet title : initial_sheet - active sheet : <Worksheet "initial_sheet">
+ 2020-12-08 17:22:32,306 - DEBUG - <class 'openpyxl.workbook.workbook.Workbook'>
+ 2020-12-08 17:22:58,568 - DEBUG - <class 'openpyxl.workbook.workbook.Workbook'>
+ 2020-12-08 17:22:58,568 - DEBUG - the name of instance : <Worksheet "initial_sheet"> - the class of sheet : <class 'openpyxl.worksheet.worksheet.Worksheet'> - sheet title : initial_sheet
+ 2020-12-08 17:22:58,568 - DEBUG - active sheet : <Worksheet "initial_sheet">
+ 2020-12-08 17:31:40,318 - DEBUG - <class 'openpyxl.workbook.workbook.Workbook'>
+ 2020-12-08 17:31:40,318 - DEBUG - the name of instance : <Worksheet "initial_sheet"> - the class of sheet : <class 'openpyxl.worksheet.worksheet.Worksheet'> - sheet title : initial_sheet
+ 2020-12-08 17:31:40,318 - DEBUG - active sheet : <Worksheet "initial_sheet">
+ 2020-12-08 17:31:40,319 - DEBUG - the name of instance : <Cell 'initial_sheet'.A1> - the class of cell : <class 'openpyxl.cell.cell.Cell'>
+ 2020-12-08 17:31:40,319 - DEBUG - A1(row:1, column1) have tmp

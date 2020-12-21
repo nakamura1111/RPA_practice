@@ -1,0 +1,450 @@
+ 2020-12-20 18:10:22,942 - DEBUG - battle_record.py
+   start function
+ 2020-12-20 18:17:37,095 - DEBUG - battle_record.py
+   start function
+ 2020-12-20 18:19:11,853 - DEBUG - battle_record.py
+   start function
+ 2020-12-20 18:19:12,537 - DEBUG - battle_record.py
+   get path : /Users/nakamurakoyo/Desktop/pokemon_battle_record.xlsx
+ 2020-12-20 18:20:23,559 - DEBUG - battle_record.py
+   start function
+ 2020-12-20 18:20:24,249 - DEBUG - battle_record.py
+   get path : /Users/nakamurakoyo/Desktop/pokemon_battle_record.xlsx
+ 2020-12-20 18:20:24,249 - DEBUG - battle_record.py
+   ('/Users/nakamurakoyo/Desktop', 'pokemon_battle_record.xlsx')
+ 2020-12-20 18:21:18,578 - DEBUG - battle_record.py
+   start function
+ 2020-12-20 18:21:19,274 - DEBUG - battle_record.py
+   sheets are ['Sheet1']
+ 2020-12-20 20:17:59,827 - DEBUG - battle_record.py
+   start function
+ 2020-12-20 20:18:02,108 - DEBUG - battle_record.py
+   'pokemon_battle_record.xlsx' sheets are ['Sheet1']
+ 2020-12-20 20:20:10,486 - DEBUG - battle_record.py
+   start function
+ 2020-12-20 20:20:10,500 - DEBUG - battle_record.py
+   'pokemon_battle_record.xlsx' sheets are ['Sheet1']
+ 2020-12-20 20:20:36,215 - DEBUG - battle_record.py
+   start function
+ 2020-12-20 20:20:36,229 - DEBUG - battle_record.py
+   'pokemon_battle_record.xlsx' sheets are ['Sheet1']
+ 2020-12-20 20:21:31,108 - DEBUG - battle_record.py
+   start function
+ 2020-12-20 20:21:31,123 - DEBUG - battle_record.py
+   'pokemon_battle_record.xlsx' sheets are ['Sheet1']
+ 2020-12-20 20:22:32,788 - DEBUG - battle_record.py
+   start function
+ 2020-12-20 20:22:32,802 - DEBUG - battle_record.py
+   'pokemon_battle_record.xlsx' sheets are ['Sheet1']
+ 2020-12-20 20:22:32,803 - DEBUG - battle_record.py
+   Sheet1
+ 2020-12-20 20:23:09,391 - DEBUG - battle_record.py
+   start function
+ 2020-12-20 20:23:09,406 - DEBUG - battle_record.py
+   'pokemon_battle_record.xlsx' sheets are ['Sheet1']
+ 2020-12-20 20:24:15,002 - DEBUG - battle_record.py
+   start function
+ 2020-12-20 20:24:15,025 - DEBUG - battle_record.py
+   'pokemon_battle_record.xlsx' sheets are ['Sheet1']
+ 2020-12-20 20:24:43,811 - DEBUG - battle_record.py
+   start function
+ 2020-12-20 20:24:43,825 - DEBUG - battle_record.py
+   'pokemon_battle_record.xlsx' sheets are ['Sheet1']
+ 2020-12-20 20:25:41,758 - DEBUG - battle_record.py
+   start function
+ 2020-12-20 20:25:41,772 - DEBUG - battle_record.py
+   'pokemon_battle_record.xlsx' sheet is ['Sheet1']
+ 2020-12-20 20:27:43,238 - DEBUG - battle_record.py
+   start function
+ 2020-12-20 20:27:43,253 - DEBUG - battle_record.py
+   'pokemon_battle_record.xlsx' sheet is ['Sheet1']
+ 2020-12-20 20:27:43,253 - DEBUG - battle_record.py
+   クレッフィ
+ 2020-12-20 20:28:46,903 - DEBUG - battle_record.py
+   start function
+ 2020-12-20 20:28:46,918 - DEBUG - battle_record.py
+   'pokemon_battle_record.xlsx' sheet is ['Sheet1']
+ 2020-12-20 20:28:46,918 - DEBUG - battle_record.py
+   None
+ 2020-12-20 20:29:48,797 - DEBUG - battle_record.py
+   start function
+ 2020-12-20 20:29:48,811 - DEBUG - battle_record.py
+   'pokemon_battle_record.xlsx' sheet is ['Sheet1']
+ 2020-12-20 20:29:48,811 - DEBUG - battle_record.py
+   ['クレッフィ', 'モンメン', 'アシレーヌ', 'ニンフィア', 'ミミッキュ', 'トゲキッス']
+ 2020-12-20 20:38:01,331 - DEBUG - battle_record.py
+   start function
+ 2020-12-20 20:38:01,346 - DEBUG - battle_record.py
+   'pokemon_battle_record.xlsx' sheet is ['Sheet1']
+ 2020-12-20 20:38:01,346 - DEBUG - battle_record.py
+   ['クレッフィ', 'モンメン', 'アシレーヌ', 'ニンフィア', 'ミミッキュ', 'トゲキッス']
+ 2020-12-20 20:38:01,346 - DEBUG - battle_record.py
+   finish function
+ 2020-12-20 20:38:58,969 - DEBUG - battle_record.py - start function
+ 2020-12-20 20:38:58,982 - DEBUG - battle_record.py - 'pokemon_battle_record.xlsx' sheet is ['Sheet1']
+ 2020-12-20 20:38:58,982 - DEBUG - battle_record.py - ['クレッフィ', 'モンメン', 'アシレーヌ', 'ニンフィア', 'ミミッキュ', 'トゲキッス']
+ 2020-12-20 20:38:58,983 - DEBUG - battle_record.py - finish function
+ 2020-12-20 20:40:53,345 - DEBUG - battle_record.py - start function
+ 2020-12-20 20:40:53,363 - DEBUG - battle_record.py - 'pokemon_battle_record.xlsx' sheet is ['Sheet1']
+ 2020-12-20 20:40:53,363 - DEBUG - battle_record.py - []
+ 2020-12-20 20:40:53,363 - DEBUG - battle_record.py - ['クレッフィ', 'モンメン', 'アシレーヌ', 'ニンフィア', 'ミミッキュ', 'トゲキッス']
+ 2020-12-20 20:40:53,363 - DEBUG - battle_record.py - []
+ 2020-12-20 20:40:53,363 - DEBUG - battle_record.py - ['タブンネ', 'サダイジャ', 'エンティ', 'ドラミドロ', 'Aガラガラ', 'ドリュウズ']
+ 2020-12-20 20:40:53,363 - DEBUG - battle_record.py - finish function
+ 2020-12-20 20:44:03,702 - DEBUG - battle_record.py - start function
+ 2020-12-20 20:44:03,716 - DEBUG - battle_record.py - 'pokemon_battle_record.xlsx' sheet is ['Sheet1']
+ 2020-12-20 20:44:03,717 - DEBUG - battle_record.py - ['ユレイドル', '火ロトム', 'シロデスナ', 'てんとうむし', 'カマスジョー', 'オーロンゲ']
+ 2020-12-20 20:44:03,717 - DEBUG - battle_record.py - finish function
+ 2020-12-20 20:45:52,686 - DEBUG - battle_record.py - start function
+ 2020-12-20 20:45:52,703 - DEBUG - battle_record.py - 'pokemon_battle_record.xlsx' sheet is ['Sheet1']
+ 2020-12-20 20:45:52,703 - DEBUG - battle_record.py - ['ユレイドル', '火ロトム', 'シロデスナ', 'てんとうむし', 'カマスジョー', 'オーロンゲ']
+ 2020-12-20 20:45:52,703 - DEBUG - battle_record.py - [None, None, None, None, None, None]
+ 2020-12-20 20:45:52,704 - DEBUG - battle_record.py - [None, None, None, None, None, None]
+ 2020-12-20 20:45:52,704 - DEBUG - battle_record.py - finish function
+ 2020-12-20 20:56:00,456 - DEBUG - battle_record.py - start function
+ 2020-12-20 20:56:00,532 - DEBUG - battle_record.py - 'pokemon_battle_record.xlsx' sheet is ['Sheet1']
+ 2020-12-20 20:57:45,699 - DEBUG - battle_record.py - start function
+ 2020-12-20 20:57:45,714 - DEBUG - battle_record.py - 'pokemon_battle_record.xlsx' sheet is ['Sheet1']
+ 2020-12-20 20:59:54,739 - DEBUG - battle_record.py - start function
+ 2020-12-20 20:59:54,753 - DEBUG - battle_record.py - 'pokemon_battle_record.xlsx' sheet is ['Sheet1']
+ 2020-12-20 20:59:54,754 - DEBUG - battle_record.py - the kind of pokemons : 59
+ 2020-12-20 20:59:54,754 - DEBUG - battle_record.py - finish function
+ 2020-12-20 21:04:44,634 - DEBUG - battle_record.py - start function
+ 2020-12-20 21:04:44,651 - DEBUG - battle_record.py - 'pokemon_battle_record.xlsx' sheet is ['Sheet1']
+ 2020-12-20 21:04:44,651 - DEBUG - battle_record.py - the kind of pokemons : 59
+ 2020-12-20 21:04:44,652 - DEBUG - battle_record.py - finish function
+ 2020-12-20 21:06:05,244 - DEBUG - battle_record.py - start function
+ 2020-12-20 21:06:05,265 - DEBUG - battle_record.py - 'pokemon_battle_record.xlsx' sheet is ['Sheet1']
+ 2020-12-20 21:06:05,265 - DEBUG - battle_record.py - the kind of pokemons : 59
+ 2020-12-20 21:06:05,266 - DEBUG - battle_record.py - finish function
+ 2020-12-20 21:07:10,468 - DEBUG - battle_record.py - start function
+ 2020-12-20 21:07:10,482 - DEBUG - battle_record.py - 'pokemon_battle_record.xlsx' sheet is ['Sheet1']
+ 2020-12-20 21:07:10,482 - DEBUG - battle_record.py - the kind of pokemons : 59
+ 2020-12-20 21:07:10,482 - DEBUG - battle_record.py - クレッフィ
+ 2020-12-20 21:07:10,483 - DEBUG - battle_record.py - モンメン
+ 2020-12-20 21:07:10,483 - DEBUG - battle_record.py - アシレーヌ
+ 2020-12-20 21:07:10,483 - DEBUG - battle_record.py - ニンフィア
+ 2020-12-20 21:07:10,483 - DEBUG - battle_record.py - ミミッキュ
+ 2020-12-20 21:07:10,483 - DEBUG - battle_record.py - トゲキッス
+ 2020-12-20 21:07:10,483 - DEBUG - battle_record.py - タブンネ
+ 2020-12-20 21:07:10,483 - DEBUG - battle_record.py - サダイジャ
+ 2020-12-20 21:07:10,483 - DEBUG - battle_record.py - エンティ
+ 2020-12-20 21:07:10,483 - DEBUG - battle_record.py - ドラミドロ
+ 2020-12-20 21:07:10,483 - DEBUG - battle_record.py - Aガラガラ
+ 2020-12-20 21:07:10,483 - DEBUG - battle_record.py - ドリュウズ
+ 2020-12-20 21:07:10,483 - DEBUG - battle_record.py - カプ・コケコ
+ 2020-12-20 21:07:10,483 - DEBUG - battle_record.py - バンギラス
+ 2020-12-20 21:07:10,483 - DEBUG - battle_record.py - パルシェン
+ 2020-12-20 21:07:10,483 - DEBUG - battle_record.py - エースバーン
+ 2020-12-20 21:07:10,483 - DEBUG - battle_record.py - ゴリランダー
+ 2020-12-20 21:07:10,483 - DEBUG - battle_record.py - ウオノラゴン
+ 2020-12-20 21:07:10,483 - DEBUG - battle_record.py - サンダー
+ 2020-12-20 21:07:10,483 - DEBUG - battle_record.py - ルカリオ
+ 2020-12-20 21:07:10,483 - DEBUG - battle_record.py - ガブリアス
+ 2020-12-20 21:07:10,483 - DEBUG - battle_record.py - ヒヒダルマ
+ 2020-12-20 21:07:10,483 - DEBUG - battle_record.py - ポットデス
+ 2020-12-20 21:07:10,483 - DEBUG - battle_record.py - バルシェン
+ 2020-12-20 21:07:10,484 - DEBUG - battle_record.py - ボーマンダ
+ 2020-12-20 21:07:10,484 - DEBUG - battle_record.py - デスバーン
+ 2020-12-20 21:07:10,484 - DEBUG - battle_record.py - ボスゴドラ
+ 2020-12-20 21:07:10,484 - DEBUG - battle_record.py - パッチラゴン
+ 2020-12-20 21:07:10,484 - DEBUG - battle_record.py - ユキノオー
+ 2020-12-20 21:07:10,484 - DEBUG - battle_record.py - ラプラス
+ 2020-12-20 21:07:10,484 - DEBUG - battle_record.py - ぱっちる
+ 2020-12-20 21:07:10,484 - DEBUG - battle_record.py - トリトドン
+ 2020-12-20 21:07:10,484 - DEBUG - battle_record.py - ドラパルト
+ 2020-12-20 21:07:10,484 - DEBUG - battle_record.py - Gファイヤー
+ 2020-12-20 21:07:10,484 - DEBUG - battle_record.py - ウーラオス
+ 2020-12-20 21:07:10,484 - DEBUG - battle_record.py - スイクン
+ 2020-12-20 21:07:10,484 - DEBUG - battle_record.py - ハリーセン
+ 2020-12-20 21:07:10,484 - DEBUG - battle_record.py - ラグラージ
+ 2020-12-20 21:07:10,484 - DEBUG - battle_record.py - ドヒドイデ
+ 2020-12-20 21:07:10,484 - DEBUG - battle_record.py - オニシズクモ
+ 2020-12-20 21:07:10,484 - DEBUG - battle_record.py - ギャラドス
+ 2020-12-20 21:07:10,484 - DEBUG - battle_record.py - 水ロトム
+ 2020-12-20 21:07:10,484 - DEBUG - battle_record.py - ウツロイド
+ 2020-12-20 21:07:10,484 - DEBUG - battle_record.py - ツンデツンデ
+ 2020-12-20 21:07:10,484 - DEBUG - battle_record.py - アーゴヨン
+ 2020-12-20 21:07:10,484 - DEBUG - battle_record.py - シロデスナ
+ 2020-12-20 21:07:10,484 - DEBUG - battle_record.py - デデンネ
+ 2020-12-20 21:07:10,485 - DEBUG - battle_record.py - シルヴァディ
+ 2020-12-20 21:07:10,485 - DEBUG - battle_record.py - ネイティオ
+ 2020-12-20 21:07:10,485 - DEBUG - battle_record.py - アーマルド
+ 2020-12-20 21:07:10,485 - DEBUG - battle_record.py - タイレーツ
+ 2020-12-20 21:07:10,485 - DEBUG - battle_record.py - ハガネール
+ 2020-12-20 21:07:10,485 - DEBUG - battle_record.py - ジバコイル
+ 2020-12-20 21:07:10,485 - DEBUG - battle_record.py - クレセリア
+ 2020-12-20 21:07:10,485 - DEBUG - battle_record.py - ユレイドル
+ 2020-12-20 21:07:10,485 - DEBUG - battle_record.py - 火ロトム
+ 2020-12-20 21:07:10,485 - DEBUG - battle_record.py - イオルブ
+ 2020-12-20 21:07:10,485 - DEBUG - battle_record.py - カマスジョー
+ 2020-12-20 21:07:10,485 - DEBUG - battle_record.py - オーロンゲ
+ 2020-12-20 21:07:10,485 - DEBUG - battle_record.py - finish function
+ 2020-12-20 21:08:54,318 - DEBUG - battle_record.py - start function
+ 2020-12-20 21:08:54,374 - DEBUG - battle_record.py - 'pokemon_battle_record.xlsx' sheet is ['Sheet1']
+ 2020-12-20 21:08:54,375 - DEBUG - battle_record.py - the kind of pokemons : 59
+ 2020-12-20 21:08:54,375 - DEBUG - battle_record.py - finish function
+ 2020-12-20 21:10:19,119 - DEBUG - battle_record.py - start function
+ 2020-12-20 21:10:19,136 - DEBUG - battle_record.py - 'pokemon_battle_record.xlsx' sheet is ['Sheet1']
+ 2020-12-20 21:10:19,137 - DEBUG - battle_record.py - the kind of pokemons : 59
+ 2020-12-20 21:10:19,137 - DEBUG - battle_record.py - finish function
+ 2020-12-20 21:10:37,350 - DEBUG - battle_record.py - start function
+ 2020-12-20 21:10:37,364 - DEBUG - battle_record.py - 'pokemon_battle_record.xlsx' sheet is ['Sheet1']
+ 2020-12-20 21:10:37,365 - DEBUG - battle_record.py - the kind of pokemons : 59
+ 2020-12-20 21:10:37,365 - DEBUG - battle_record.py - finish function
+ 2020-12-20 21:15:39,916 - DEBUG - battle_record.py - start function
+ 2020-12-20 21:15:39,936 - DEBUG - battle_record.py - 'pokemon_battle_record.xlsx' sheet is ['Sheet1']
+ 2020-12-20 21:15:39,937 - DEBUG - battle_record.py - the kind of pokemons : 59
+ 2020-12-20 21:15:39,952 - DEBUG - battle_record.py - finish function
+ 2020-12-20 21:21:54,129 - DEBUG - battle_record.py - start function
+ 2020-12-20 21:21:54,153 - DEBUG - battle_record.py - 'pokemon_battle_record.xlsx' sheet is ['Sheet1']
+ 2020-12-20 21:21:54,153 - DEBUG - battle_record.py - the kind of pokemons : 78
+ 2020-12-20 21:21:54,168 - DEBUG - battle_record.py - finish function
+ 2020-12-21 10:27:17,676 - DEBUG - battle_record.py - start function
+ 2020-12-21 10:27:17,739 - DEBUG - battle_record.py - 'pokemon_battle_record.xlsx' sheet is ['Sheet1']
+ 2020-12-21 10:28:38,506 - DEBUG - battle_record.py - start function
+ 2020-12-21 10:28:38,527 - DEBUG - battle_record.py - 'pokemon_battle_record.xlsx' sheet is ['Sheet1']
+ 2020-12-21 10:29:22,492 - DEBUG - battle_record.py - start function
+ 2020-12-21 10:29:22,507 - DEBUG - battle_record.py - 'pokemon_battle_record.xlsx' sheet is ['Sheet1']
+ 2020-12-21 10:29:49,381 - DEBUG - battle_record.py - start function
+ 2020-12-21 10:29:49,396 - DEBUG - battle_record.py - 'pokemon_battle_record.xlsx' sheet is ['Sheet1']
+ 2020-12-21 10:30:13,741 - DEBUG - battle_record.py - start function
+ 2020-12-21 10:30:13,757 - DEBUG - battle_record.py - 'pokemon_battle_record.xlsx' sheet is ['Sheet1']
+ 2020-12-21 10:30:13,758 - DEBUG - battle_record.py - the kind of pokemons : 59
+ 2020-12-21 10:30:13,758 - DEBUG - battle_record.py - [{'pokemon': 'クレッフィ', 'num_in_party': 1}, {'pokemon': 'モンメン', 'num_in_party': 1}, {'pokemon': 'アシレーヌ', 'num_in_party': 1}, {'pokemon': 'ニンフィア', 'num_in_party': 1}, {'pokemon': 'ミミッキュ', 'num_in_party': 4}, {'pokemon': 'トゲキッス', 'num_in_party': 3}, {'pokemon': 'タブンネ', 'num_in_party': 1}, {'pokemon': 'サダイジャ', 'num_in_party': 2}, {'pokemon': 'エンティ', 'num_in_party': 1}, {'pokemon': 'ドラミドロ', 'num_in_party': 1}, {'pokemon': 'Aガラガラ', 'num_in_party': 1}, {'pokemon': 'ドリュウズ', 'num_in_party': 2}, {'pokemon': 'カプ・コケコ', 'num_in_party': 1}, {'pokemon': 'バンギラス', 'num_in_party': 1}, {'pokemon': 'パルシェン', 'num_in_party': 1}, {'pokemon': 'エースバーン', 'num_in_party': 5}, {'pokemon': 'ゴリランダー', 'num_in_party': 1}, {'pokemon': 'ウオノラゴン', 'num_in_party': 1}, {'pokemon': 'サンダー', 'num_in_party': 4}, {'pokemon': 'ルカリオ', 'num_in_party': 1}, {'pokemon': 'ガブリアス', 'num_in_party': 1}, {'pokemon': 'ヒヒダルマ', 'num_in_party': 1}, {'pokemon': 'ポットデス', 'num_in_party': 1}, {'pokemon': 'バルシェン', 'num_in_party': 1}, {'pokemon': 'ボーマンダ', 'num_in_party': 1}, {'pokemon': 'デスバーン', 'num_in_party': 1}, {'pokemon': 'ボスゴドラ', 'num_in_party': 1}, {'pokemon': 'パッチラゴン', 'num_in_party': 1}, {'pokemon': 'ユキノオー', 'num_in_party': 1}, {'pokemon': 'ラプラス', 'num_in_party': 2}, {'pokemon': 'ぱっちる', 'num_in_party': 1}, {'pokemon': 'トリトドン', 'num_in_party': 1}, {'pokemon': 'ドラパルト', 'num_in_party': 1}, {'pokemon': 'Gファイヤー', 'num_in_party': 1}, {'pokemon': 'ウーラオス', 'num_in_party': 3}, {'pokemon': 'スイクン', 'num_in_party': 2}, {'pokemon': 'ハリーセン', 'num_in_party': 1}, {'pokemon': 'ラグラージ', 'num_in_party': 1}, {'pokemon': 'ドヒドイデ', 'num_in_party': 1}, {'pokemon': 'オニシズクモ', 'num_in_party': 1}, {'pokemon': 'ギャラドス', 'num_in_party': 1}, {'pokemon': '水ロトム', 'num_in_party': 1}, {'pokemon': 'ウツロイド', 'num_in_party': 1}, {'pokemon': 'ツンデツンデ', 'num_in_party': 1}, {'pokemon': 'アーゴヨン', 'num_in_party': 1}, {'pokemon': 'シロデスナ', 'num_in_party': 2}, {'pokemon': 'デデンネ', 'num_in_party': 1}, {'pokemon': 'シルヴァディ', 'num_in_party': 1}, {'pokemon': 'ネイティオ', 'num_in_party': 1}, {'pokemon': 'アーマルド', 'num_in_party': 1}, {'pokemon': 'タイレーツ', 'num_in_party': 1}, {'pokemon': 'ハガネール', 'num_in_party': 1}, {'pokemon': 'ジバコイル', 'num_in_party': 1}, {'pokemon': 'クレセリア', 'num_in_party': 1}, {'pokemon': 'ユレイドル', 'num_in_party': 1}, {'pokemon': '火ロトム', 'num_in_party': 1}, {'pokemon': 'イオルブ', 'num_in_party': 1}, {'pokemon': 'カマスジョー', 'num_in_party': 1}, {'pokemon': 'オーロンゲ', 'num_in_party': 1}]
+ 2020-12-21 10:30:13,759 - DEBUG - battle_record.py - finish function
+ 2020-12-21 10:35:13,994 - DEBUG - battle_record.py - start function
+ 2020-12-21 10:35:14,016 - DEBUG - battle_record.py - 'pokemon_battle_record.xlsx' sheet is ['Sheet1']
+ 2020-12-21 10:35:14,017 - DEBUG - battle_record.py - the kind of pokemons : 59
+ 2020-12-21 10:37:29,647 - DEBUG - battle_record.py - start function
+ 2020-12-21 10:37:29,667 - DEBUG - battle_record.py - 'pokemon_battle_record.xlsx' sheet is ['Sheet1']
+ 2020-12-21 10:37:29,668 - DEBUG - battle_record.py - the kind of pokemons : 59
+ 2020-12-21 10:37:29,685 - DEBUG - battle_record.py - finish function
+ 2020-12-21 10:39:38,234 - DEBUG - battle_record.py - start function
+ 2020-12-21 10:39:38,259 - DEBUG - battle_record.py - 'pokemon_battle_record.xlsx' sheet is ['Sheet1']
+ 2020-12-21 10:39:38,259 - DEBUG - battle_record.py - the kind of pokemons : 59
+ 2020-12-21 10:39:38,278 - DEBUG - battle_record.py - finish function
+ 2020-12-21 10:43:12,063 - DEBUG - battle_record.py - start function
+ 2020-12-21 10:43:12,082 - DEBUG - battle_record.py - 'pokemon_battle_record.xlsx' sheet is ['Sheet1']
+ 2020-12-21 10:43:12,083 - DEBUG - battle_record.py - the kind of pokemons : 59
+ 2020-12-21 10:43:12,096 - DEBUG - battle_record.py - finish function
+ 2020-12-21 10:45:48,203 - DEBUG - battle_record.py - start function
+ 2020-12-21 10:45:48,218 - DEBUG - battle_record.py - 'pokemon_battle_record.xlsx' sheet is ['Sheet1']
+ 2020-12-21 10:45:48,219 - DEBUG - battle_record.py - the kind of pokemons : 59
+ 2020-12-21 10:45:48,232 - DEBUG - battle_record.py - finish function
+ 2020-12-21 10:48:09,919 - DEBUG - battle_record.py - start function
+ 2020-12-21 10:48:09,940 - DEBUG - battle_record.py - 'pokemon_battle_record.xlsx' sheet is ['Sheet1']
+ 2020-12-21 10:48:09,940 - DEBUG - battle_record.py - the kind of pokemons : 59
+ 2020-12-21 10:48:09,960 - DEBUG - battle_record.py - finish function
+ 2020-12-21 10:49:57,007 - DEBUG - battle_record.py - start function
+ 2020-12-21 10:49:57,027 - DEBUG - battle_record.py - 'pokemon_battle_record.xlsx' sheet is ['Sheet1']
+ 2020-12-21 10:49:57,027 - DEBUG - battle_record.py - the kind of pokemons : 59
+ 2020-12-21 10:49:57,043 - DEBUG - battle_record.py - finish function
+ 2020-12-21 11:14:11,536 - DEBUG - battle_record.py - start function
+ 2020-12-21 11:14:11,562 - DEBUG - battle_record.py - 'pokemon_battle_record.xlsx' sheet is ['Sheet1']
+ 2020-12-21 11:19:53,152 - DEBUG - battle_record.py - start function
+ 2020-12-21 11:19:53,181 - DEBUG - battle_record.py - 'pokemon_battle_record.xlsx' sheet is ['S13', 'S13_statistics']
+ 2020-12-21 11:19:53,182 - DEBUG - battle_record.py - the kind of pokemons : 59
+ 2020-12-21 11:19:53,223 - DEBUG - battle_record.py - finish function
+ 2020-12-21 11:46:47,158 - DEBUG - battle_record.py - start function
+ 2020-12-21 11:46:47,243 - DEBUG - battle_record.py - 'pokemon_battle_record.xlsx' sheet is ['S13', 'S13_statistics']
+ 2020-12-21 11:47:02,134 - DEBUG - battle_record.py - start function
+ 2020-12-21 11:47:02,155 - DEBUG - battle_record.py - 'pokemon_battle_record.xlsx' sheet is ['S13', 'S13_statistics']
+ 2020-12-21 11:56:28,120 - DEBUG - battle_record.py - start function
+ 2020-12-21 11:56:28,144 - DEBUG - battle_record.py - 'pokemon_battle_record.xlsx' sheet is ['S13', 'S13_statistics']
+ 2020-12-21 11:56:28,145 - DEBUG - battle_record.py - the kind of pokemons : 78
+ 2020-12-21 11:57:51,929 - DEBUG - battle_record.py - start function
+ 2020-12-21 11:57:51,950 - DEBUG - battle_record.py - 'pokemon_battle_record.xlsx' sheet is ['S13', 'S13_statistics']
+ 2020-12-21 11:57:51,952 - DEBUG - battle_record.py - the kind of pokemons : 78
+ 2020-12-21 11:59:03,533 - DEBUG - battle_record.py - start function
+ 2020-12-21 11:59:03,563 - DEBUG - battle_record.py - 'pokemon_battle_record.xlsx' sheet is ['S13', 'S13_statistics']
+ 2020-12-21 11:59:03,564 - DEBUG - battle_record.py - クレッフィ
+ 2020-12-21 11:59:03,564 - DEBUG - battle_record.py - モンメン
+ 2020-12-21 11:59:03,564 - DEBUG - battle_record.py - アシレーヌ
+ 2020-12-21 11:59:03,564 - DEBUG - battle_record.py - ニンフィア
+ 2020-12-21 11:59:03,564 - DEBUG - battle_record.py - ミミッキュ
+ 2020-12-21 11:59:03,564 - DEBUG - battle_record.py - トゲキッス
+ 2020-12-21 11:59:03,564 - DEBUG - battle_record.py - タブンネ
+ 2020-12-21 11:59:03,564 - DEBUG - battle_record.py - サダイジャ
+ 2020-12-21 11:59:03,564 - DEBUG - battle_record.py - エンティ
+ 2020-12-21 11:59:03,564 - DEBUG - battle_record.py - ドラミドロ
+ 2020-12-21 11:59:03,564 - DEBUG - battle_record.py - Aガラガラ
+ 2020-12-21 11:59:03,564 - DEBUG - battle_record.py - ドリュウズ
+ 2020-12-21 11:59:03,564 - DEBUG - battle_record.py - カプ・コケコ
+ 2020-12-21 11:59:03,564 - DEBUG - battle_record.py - バンギラス
+ 2020-12-21 11:59:03,565 - DEBUG - battle_record.py - パルシェン
+ 2020-12-21 11:59:03,565 - DEBUG - battle_record.py - エースバーン
+ 2020-12-21 11:59:03,565 - DEBUG - battle_record.py - ゴリランダー
+ 2020-12-21 11:59:03,565 - DEBUG - battle_record.py - ウオノラゴン
+ 2020-12-21 11:59:03,565 - DEBUG - battle_record.py - サンダー
+ 2020-12-21 11:59:03,565 - DEBUG - battle_record.py - ミミッキュ
+ 2020-12-21 11:59:03,565 - DEBUG - battle_record.py - ルカリオ
+ 2020-12-21 11:59:03,565 - DEBUG - battle_record.py - ガブリアス
+ 2020-12-21 11:59:03,565 - DEBUG - battle_record.py - エースバーン
+ 2020-12-21 11:59:03,565 - DEBUG - battle_record.py - ヒヒダルマ
+ 2020-12-21 11:59:03,565 - DEBUG - battle_record.py - ポットデス
+ 2020-12-21 11:59:03,565 - DEBUG - battle_record.py - バルシェン
+ 2020-12-21 11:59:03,565 - DEBUG - battle_record.py - ボーマンダ
+ 2020-12-21 11:59:03,565 - DEBUG - battle_record.py - デスバーン
+ 2020-12-21 11:59:03,565 - DEBUG - battle_record.py - トゲキッス
+ 2020-12-21 11:59:03,565 - DEBUG - battle_record.py - ボスゴドラ
+ 2020-12-21 11:59:03,565 - DEBUG - battle_record.py - パッチラゴン
+ 2020-12-21 11:59:03,566 - DEBUG - battle_record.py - ユキノオー
+ 2020-12-21 11:59:03,566 - DEBUG - battle_record.py - ラプラス
+ 2020-12-21 11:59:03,566 - DEBUG - battle_record.py - サダイジャ
+ 2020-12-21 11:59:03,566 - DEBUG - battle_record.py - ぱっちる
+ 2020-12-21 11:59:03,566 - DEBUG - battle_record.py - トリトドン
+ 2020-12-21 11:59:03,566 - DEBUG - battle_record.py - ドラパルト
+ 2020-12-21 11:59:03,566 - DEBUG - battle_record.py - Gファイヤー
+ 2020-12-21 11:59:03,566 - DEBUG - battle_record.py - ドリュウズ
+ 2020-12-21 11:59:03,566 - DEBUG - battle_record.py - ウーラオス
+ 2020-12-21 11:59:03,566 - DEBUG - battle_record.py - スイクン
+ 2020-12-21 11:59:03,566 - DEBUG - battle_record.py - サンダー
+ 2020-12-21 11:59:03,566 - DEBUG - battle_record.py - ハリーセン
+ 2020-12-21 11:59:03,566 - DEBUG - battle_record.py - ラグラージ
+ 2020-12-21 11:59:03,566 - DEBUG - battle_record.py - ドヒドイデ
+ 2020-12-21 11:59:03,566 - DEBUG - battle_record.py - オニシズクモ
+ 2020-12-21 11:59:03,566 - DEBUG - battle_record.py - ギャラドス
+ 2020-12-21 11:59:03,566 - DEBUG - battle_record.py - 水ロトム
+ 2020-12-21 11:59:03,567 - DEBUG - battle_record.py - スイクン
+ 2020-12-21 11:59:03,567 - DEBUG - battle_record.py - エースバーン
+ 2020-12-21 11:59:03,567 - DEBUG - battle_record.py - ウツロイド
+ 2020-12-21 11:59:03,567 - DEBUG - battle_record.py - ウーラオス
+ 2020-12-21 11:59:03,567 - DEBUG - battle_record.py - ミミッキュ
+ 2020-12-21 11:59:03,567 - DEBUG - battle_record.py - トゲキッス
+ 2020-12-21 11:59:03,567 - DEBUG - battle_record.py - ラプラス
+ 2020-12-21 11:59:03,567 - DEBUG - battle_record.py - エースバーン
+ 2020-12-21 11:59:03,567 - DEBUG - battle_record.py - ツンデツンデ
+ 2020-12-21 11:59:03,567 - DEBUG - battle_record.py - アーゴヨン
+ 2020-12-21 11:59:03,567 - DEBUG - battle_record.py - シロデスナ
+ 2020-12-21 11:59:03,567 - DEBUG - battle_record.py - サンダー
+ 2020-12-21 11:59:03,567 - DEBUG - battle_record.py - デデンネ
+ 2020-12-21 11:59:03,567 - DEBUG - battle_record.py - シルヴァディ
+ 2020-12-21 11:59:03,567 - DEBUG - battle_record.py - ネイティオ
+ 2020-12-21 11:59:03,567 - DEBUG - battle_record.py - アーマルド
+ 2020-12-21 11:59:03,567 - DEBUG - battle_record.py - タイレーツ
+ 2020-12-21 11:59:03,568 - DEBUG - battle_record.py - ハガネール
+ 2020-12-21 11:59:03,568 - DEBUG - battle_record.py - サンダー
+ 2020-12-21 11:59:03,568 - DEBUG - battle_record.py - ジバコイル
+ 2020-12-21 11:59:03,568 - DEBUG - battle_record.py - エースバーン
+ 2020-12-21 11:59:03,568 - DEBUG - battle_record.py - ウーラオス
+ 2020-12-21 11:59:03,568 - DEBUG - battle_record.py - ミミッキュ
+ 2020-12-21 11:59:03,568 - DEBUG - battle_record.py - クレセリア
+ 2020-12-21 11:59:03,568 - DEBUG - battle_record.py - ユレイドル
+ 2020-12-21 11:59:03,568 - DEBUG - battle_record.py - 火ロトム
+ 2020-12-21 11:59:03,568 - DEBUG - battle_record.py - シロデスナ
+ 2020-12-21 11:59:03,568 - DEBUG - battle_record.py - イオルブ
+ 2020-12-21 11:59:03,568 - DEBUG - battle_record.py - カマスジョー
+ 2020-12-21 11:59:03,568 - DEBUG - battle_record.py - オーロンゲ
+ 2020-12-21 11:59:03,568 - DEBUG - battle_record.py - the kind of pokemons : 78
+ 2020-12-21 11:59:22,839 - DEBUG - battle_record.py - start function
+ 2020-12-21 11:59:22,860 - DEBUG - battle_record.py - 'pokemon_battle_record.xlsx' sheet is ['S13', 'S13_statistics']
+ 2020-12-21 11:59:22,860 - DEBUG - battle_record.py - 1
+ 2020-12-21 11:59:22,860 - DEBUG - battle_record.py - None
+ 2020-12-21 11:59:22,860 - DEBUG - battle_record.py - None
+ 2020-12-21 11:59:22,860 - DEBUG - battle_record.py - None
+ 2020-12-21 11:59:22,860 - DEBUG - battle_record.py - 2
+ 2020-12-21 11:59:22,860 - DEBUG - battle_record.py - None
+ 2020-12-21 11:59:22,860 - DEBUG - battle_record.py - 2
+ 2020-12-21 11:59:22,860 - DEBUG - battle_record.py - None
+ 2020-12-21 11:59:22,860 - DEBUG - battle_record.py - None
+ 2020-12-21 11:59:22,860 - DEBUG - battle_record.py - 1
+ 2020-12-21 11:59:22,860 - DEBUG - battle_record.py - 2
+ 2020-12-21 11:59:22,860 - DEBUG - battle_record.py - None
+ 2020-12-21 11:59:22,861 - DEBUG - battle_record.py - None
+ 2020-12-21 11:59:22,861 - DEBUG - battle_record.py - None
+ 2020-12-21 11:59:22,861 - DEBUG - battle_record.py - 2
+ 2020-12-21 11:59:22,861 - DEBUG - battle_record.py - 2
+ 2020-12-21 11:59:22,861 - DEBUG - battle_record.py - None
+ 2020-12-21 11:59:22,861 - DEBUG - battle_record.py - 1
+ 2020-12-21 11:59:22,861 - DEBUG - battle_record.py - 2
+ 2020-12-21 11:59:22,861 - DEBUG - battle_record.py - None
+ 2020-12-21 11:59:22,861 - DEBUG - battle_record.py - 2
+ 2020-12-21 11:59:22,861 - DEBUG - battle_record.py - None
+ 2020-12-21 11:59:22,861 - DEBUG - battle_record.py - None
+ 2020-12-21 11:59:22,861 - DEBUG - battle_record.py - 1
+ 2020-12-21 11:59:22,861 - DEBUG - battle_record.py - None
+ 2020-12-21 11:59:22,861 - DEBUG - battle_record.py - 2
+ 2020-12-21 11:59:22,861 - DEBUG - battle_record.py - 2
+ 2020-12-21 11:59:22,861 - DEBUG - battle_record.py - 1
+ 2020-12-21 11:59:22,861 - DEBUG - battle_record.py - None
+ 2020-12-21 11:59:22,861 - DEBUG - battle_record.py - None
+ 2020-12-21 11:59:22,861 - DEBUG - battle_record.py - 2
+ 2020-12-21 11:59:22,862 - DEBUG - battle_record.py - None
+ 2020-12-21 11:59:22,862 - DEBUG - battle_record.py - None
+ 2020-12-21 11:59:22,862 - DEBUG - battle_record.py - 1
+ 2020-12-21 11:59:22,862 - DEBUG - battle_record.py - None
+ 2020-12-21 11:59:22,862 - DEBUG - battle_record.py - None
+ 2020-12-21 11:59:22,862 - DEBUG - battle_record.py - 2
+ 2020-12-21 11:59:22,862 - DEBUG - battle_record.py - None
+ 2020-12-21 11:59:22,862 - DEBUG - battle_record.py - 2
+ 2020-12-21 11:59:22,862 - DEBUG - battle_record.py - 1
+ 2020-12-21 11:59:22,862 - DEBUG - battle_record.py - None
+ 2020-12-21 11:59:22,862 - DEBUG - battle_record.py - None
+ 2020-12-21 11:59:22,862 - DEBUG - battle_record.py - 1
+ 2020-12-21 11:59:22,862 - DEBUG - battle_record.py - None
+ 2020-12-21 11:59:22,862 - DEBUG - battle_record.py - 2
+ 2020-12-21 11:59:22,862 - DEBUG - battle_record.py - None
+ 2020-12-21 11:59:22,862 - DEBUG - battle_record.py - 2
+ 2020-12-21 11:59:22,862 - DEBUG - battle_record.py - None
+ 2020-12-21 11:59:22,863 - DEBUG - battle_record.py - 1
+ 2020-12-21 11:59:22,863 - DEBUG - battle_record.py - 2
+ 2020-12-21 11:59:22,863 - DEBUG - battle_record.py - 2
+ 2020-12-21 11:59:22,863 - DEBUG - battle_record.py - None
+ 2020-12-21 11:59:22,863 - DEBUG - battle_record.py - None
+ 2020-12-21 11:59:22,863 - DEBUG - battle_record.py - None
+ 2020-12-21 11:59:22,863 - DEBUG - battle_record.py - 2
+ 2020-12-21 11:59:22,863 - DEBUG - battle_record.py - None
+ 2020-12-21 11:59:22,863 - DEBUG - battle_record.py - 2
+ 2020-12-21 11:59:22,863 - DEBUG - battle_record.py - 1
+ 2020-12-21 11:59:22,863 - DEBUG - battle_record.py - None
+ 2020-12-21 11:59:22,863 - DEBUG - battle_record.py - None
+ 2020-12-21 11:59:22,863 - DEBUG - battle_record.py - None
+ 2020-12-21 11:59:22,863 - DEBUG - battle_record.py - None
+ 2020-12-21 11:59:22,863 - DEBUG - battle_record.py - None
+ 2020-12-21 11:59:22,863 - DEBUG - battle_record.py - 2
+ 2020-12-21 11:59:22,863 - DEBUG - battle_record.py - 2
+ 2020-12-21 11:59:22,863 - DEBUG - battle_record.py - 1
+ 2020-12-21 11:59:22,864 - DEBUG - battle_record.py - None
+ 2020-12-21 11:59:22,864 - DEBUG - battle_record.py - 2
+ 2020-12-21 11:59:22,864 - DEBUG - battle_record.py - 1
+ 2020-12-21 11:59:22,864 - DEBUG - battle_record.py - None
+ 2020-12-21 11:59:22,864 - DEBUG - battle_record.py - 2
+ 2020-12-21 11:59:22,864 - DEBUG - battle_record.py - None
+ 2020-12-21 11:59:22,864 - DEBUG - battle_record.py - None
+ 2020-12-21 11:59:22,864 - DEBUG - battle_record.py - None
+ 2020-12-21 11:59:22,864 - DEBUG - battle_record.py - 1
+ 2020-12-21 11:59:22,864 - DEBUG - battle_record.py - None
+ 2020-12-21 11:59:22,864 - DEBUG - battle_record.py - 2
+ 2020-12-21 11:59:22,864 - DEBUG - battle_record.py - 2
+ 2020-12-21 11:59:22,864 - DEBUG - battle_record.py - the kind of pokemons : 78
+ 2020-12-21 12:02:02,811 - DEBUG - battle_record.py - start function
+ 2020-12-21 12:02:02,834 - DEBUG - battle_record.py - 'pokemon_battle_record.xlsx' sheet is ['S13', 'S13_statistics']
+ 2020-12-21 12:02:02,836 - DEBUG - battle_record.py - the kind of pokemons : 78
+ 2020-12-21 12:05:58,196 - DEBUG - battle_record.py - start function
+ 2020-12-21 12:05:58,219 - DEBUG - battle_record.py - 'pokemon_battle_record.xlsx' sheet is ['S13', 'S13_statistics']
+ 2020-12-21 12:05:58,220 - DEBUG - battle_record.py - the kind of pokemons : 78
+ 2020-12-21 12:05:58,221 - DEBUG - battle_record.py - [{'name': {'name': 'クレッフィ', 'is_first_use': True, 'is_second_use': False}, 'num_in_party': 1, 'first_use': 1, 'second_use': 0}, {'name': {'name': 'モンメン', 'is_first_use': False, 'is_second_use': False}, 'num_in_party': 1, 'first_use': 0, 'second_use': 0}, {'name': {'name': 'アシレーヌ', 'is_first_use': False, 'is_second_use': False}, 'num_in_party': 1, 'first_use': 0, 'second_use': 0}, {'name': {'name': 'ニンフィア', 'is_first_use': False, 'is_second_use': False}, 'num_in_party': 1, 'first_use': 0, 'second_use': 0}, {'name': {'name': 'ミミッキュ', 'is_first_use': False, 'is_second_use': True}, 'num_in_party': 1, 'first_use': 0, 'second_use': 1}, {'name': {'name': 'トゲキッス', 'is_first_use': False, 'is_second_use': False}, 'num_in_party': 1, 'first_use': 0, 'second_use': 0}, {'name': {'name': 'タブンネ', 'is_first_use': False, 'is_second_use': True}, 'num_in_party': 1, 'first_use': 0, 'second_use': 1}, {'name': {'name': 'サダイジャ', 'is_first_use': False, 'is_second_use': False}, 'num_in_party': 1, 'first_use': 0, 'second_use': 0}, {'name': {'name': 'エンティ', 'is_first_use': False, 'is_second_use': False}, 'num_in_party': 1, 'first_use': 0, 'second_use': 0}, {'name': {'name': 'ドラミドロ', 'is_first_use': True, 'is_second_use': False}, 'num_in_party': 1, 'first_use': 1, 'second_use': 0}, {'name': {'name': 'Aガラガラ', 'is_first_use': False, 'is_second_use': True}, 'num_in_party': 1, 'first_use': 0, 'second_use': 1}, {'name': {'name': 'ドリュウズ', 'is_first_use': False, 'is_second_use': False}, 'num_in_party': 1, 'first_use': 0, 'second_use': 0}, {'name': {'name': 'カプ・コケコ', 'is_first_use': False, 'is_second_use': False}, 'num_in_party': 1, 'first_use': 0, 'second_use': 0}, {'name': {'name': 'バンギラス', 'is_first_use': False, 'is_second_use': False}, 'num_in_party': 1, 'first_use': 0, 'second_use': 0}, {'name': {'name': 'パルシェン', 'is_first_use': False, 'is_second_use': True}, 'num_in_party': 1, 'first_use': 0, 'second_use': 1}, {'name': {'name': 'エースバーン', 'is_first_use': False, 'is_second_use': True}, 'num_in_party': 1, 'first_use': 0, 'second_use': 1}, {'name': {'name': 'ゴリランダー', 'is_first_use': False, 'is_second_use': False}, 'num_in_party': 1, 'first_use': 0, 'second_use': 0}, {'name': {'name': 'ウオノラゴン', 'is_first_use': True, 'is_second_use': False}, 'num_in_party': 1, 'first_use': 1, 'second_use': 0}, {'name': {'name': 'サンダー', 'is_first_use': False, 'is_second_use': True}, 'num_in_party': 1, 'first_use': 0, 'second_use': 1}, {'name': {'name': 'ミミッキュ', 'is_first_use': False, 'is_second_use': False}, 'num_in_party': 1, 'first_use': 0, 'second_use': 0}, {'name': {'name': 'ルカリオ', 'is_first_use': False, 'is_second_use': True}, 'num_in_party': 1, 'first_use': 0, 'second_use': 1}, {'name': {'name': 'ガブリアス', 'is_first_use': False, 'is_second_use': False}, 'num_in_party': 1, 'first_use': 0, 'second_use': 0}, {'name': {'name': 'エースバーン', 'is_first_use': False, 'is_second_use': False}, 'num_in_party': 1, 'first_use': 0, 'second_use': 0}, {'name': {'name': 'ヒヒダルマ', 'is_first_use': True, 'is_second_use': False}, 'num_in_party': 1, 'first_use': 1, 'second_use': 0}, {'name': {'name': 'ポットデス', 'is_first_use': False, 'is_second_use': False}, 'num_in_party': 1, 'first_use': 0, 'second_use': 0}, {'name': {'name': 'バルシェン', 'is_first_use': False, 'is_second_use': True}, 'num_in_party': 1, 'first_use': 0, 'second_use': 1}, {'name': {'name': 'ボーマンダ', 'is_first_use': False, 'is_second_use': True}, 'num_in_party': 1, 'first_use': 0, 'second_use': 1}, {'name': {'name': 'デスバーン', 'is_first_use': True, 'is_second_use': False}, 'num_in_party': 1, 'first_use': 1, 'second_use': 0}, {'name': {'name': 'トゲキッス', 'is_first_use': False, 'is_second_use': False}, 'num_in_party': 1, 'first_use': 0, 'second_use': 0}, {'name': {'name': 'ボスゴドラ', 'is_first_use': False, 'is_second_use': False}, 'num_in_party': 1, 'first_use': 0, 'second_use': 0}, {'name': {'name': 'パッチラゴン', 'is_first_use': False, 'is_second_use': True}, 'num_in_party': 1, 'first_use': 0, 'second_use': 1}, {'name': {'name': 'ユキノオー', 'is_first_use': False, 'is_second_use': False}, 'num_in_party': 1, 'first_use': 0, 'second_use': 0}, {'name': {'name': 'ラプラス', 'is_first_use': False, 'is_second_use': False}, 'num_in_party': 1, 'first_use': 0, 'second_use': 0}, {'name': {'name': 'サダイジャ', 'is_first_use': True, 'is_second_use': False}, 'num_in_party': 1, 'first_use': 1, 'second_use': 0}, {'name': {'name': 'ぱっちる', 'is_first_use': False, 'is_second_use': False}, 'num_in_party': 1, 'first_use': 0, 'second_use': 0}, {'name': {'name': 'トリトドン', 'is_first_use': False, 'is_second_use': False}, 'num_in_party': 1, 'first_use': 0, 'second_use': 0}, {'name': {'name': 'ドラパルト', 'is_first_use': False, 'is_second_use': True}, 'num_in_party': 1, 'first_use': 0, 'second_use': 1}, {'name': {'name': 'Gファイヤー', 'is_first_use': False, 'is_second_use': False}, 'num_in_party': 1, 'first_use': 0, 'second_use': 0}, {'name': {'name': 'ドリュウズ', 'is_first_use': False, 'is_second_use': True}, 'num_in_party': 1, 'first_use': 0, 'second_use': 1}, {'name': {'name': 'ウーラオス', 'is_first_use': True, 'is_second_use': False}, 'num_in_party': 1, 'first_use': 1, 'second_use': 0}, {'name': {'name': 'スイクン', 'is_first_use': False, 'is_second_use': False}, 'num_in_party': 1, 'first_use': 0, 'second_use': 0}, {'name': {'name': 'サンダー', 'is_first_use': False, 'is_second_use': False}, 'num_in_party': 1, 'first_use': 0, 'second_use': 0}, {'name': {'name': 'ハリーセン', 'is_first_use': True, 'is_second_use': False}, 'num_in_party': 1, 'first_use': 1, 'second_use': 0}, {'name': {'name': 'ラグラージ', 'is_first_use': False, 'is_second_use': False}, 'num_in_party': 1, 'first_use': 0, 'second_use': 0}, {'name': {'name': 'ドヒドイデ', 'is_first_use': False, 'is_second_use': True}, 'num_in_party': 1, 'first_use': 0, 'second_use': 1}, {'name': {'name': 'オニシズクモ', 'is_first_use': False, 'is_second_use': False}, 'num_in_party': 1, 'first_use': 0, 'second_use': 0}, {'name': {'name': 'ギャラドス', 'is_first_use': False, 'is_second_use': True}, 'num_in_party': 1, 'first_use': 0, 'second_use': 1}, {'name': {'name': '水ロトム', 'is_first_use': False, 'is_second_use': False}, 'num_in_party': 1, 'first_use': 0, 'second_use': 0}, {'name': {'name': 'スイクン', 'is_first_use': True, 'is_second_use': False}, 'num_in_party': 1, 'first_use': 1, 'second_use': 0}, {'name': {'name': 'エースバーン', 'is_first_use': False, 'is_second_use': True}, 'num_in_party': 1, 'first_use': 0, 'second_use': 1}, {'name': {'name': 'ウツロイド', 'is_first_use': False, 'is_second_use': True}, 'num_in_party': 1, 'first_use': 0, 'second_use': 1}, {'name': {'name': 'ウーラオス', 'is_first_use': False, 'is_second_use': False}, 'num_in_party': 1, 'first_use': 0, 'second_use': 0}, {'name': {'name': 'ミミッキュ', 'is_first_use': False, 'is_second_use': False}, 'num_in_party': 1, 'first_use': 0, 'second_use': 0}, {'name': {'name': 'トゲキッス', 'is_first_use': False, 'is_second_use': False}, 'num_in_party': 1, 'first_use': 0, 'second_use': 0}, {'name': {'name': 'ラプラス', 'is_first_use': False, 'is_second_use': True}, 'num_in_party': 1, 'first_use': 0, 'second_use': 1}, {'name': {'name': 'エースバーン', 'is_first_use': False, 'is_second_use': False}, 'num_in_party': 1, 'first_use': 0, 'second_use': 0}, {'name': {'name': 'ツンデツンデ', 'is_first_use': False, 'is_second_use': True}, 'num_in_party': 1, 'first_use': 0, 'second_use': 1}, {'name': {'name': 'アーゴヨン', 'is_first_use': True, 'is_second_use': False}, 'num_in_party': 1, 'first_use': 1, 'second_use': 0}, {'name': {'name': 'シロデスナ', 'is_first_use': False, 'is_second_use': False}, 'num_in_party': 1, 'first_use': 0, 'second_use': 0}, {'name': {'name': 'サンダー', 'is_first_use': False, 'is_second_use': False}, 'num_in_party': 1, 'first_use': 0, 'second_use': 0}, {'name': {'name': 'デデンネ', 'is_first_use': False, 'is_second_use': False}, 'num_in_party': 1, 'first_use': 0, 'second_use': 0}, {'name': {'name': 'シルヴァディ', 'is_first_use': False, 'is_second_use': False}, 'num_in_party': 1, 'first_use': 0, 'second_use': 0}, {'name': {'name': 'ネイティオ', 'is_first_use': False, 'is_second_use': False}, 'num_in_party': 1, 'first_use': 0, 'second_use': 0}, {'name': {'name': 'アーマルド', 'is_first_use': False, 'is_second_use': True}, 'num_in_party': 1, 'first_use': 0, 'second_use': 1}, {'name': {'name': 'タイレーツ', 'is_first_use': False, 'is_second_use': True}, 'num_in_party': 1, 'first_use': 0, 'second_use': 1}, {'name': {'name': 'ハガネール', 'is_first_use': True, 'is_second_use': False}, 'num_in_party': 1, 'first_use': 1, 'second_use': 0}, {'name': {'name': 'サンダー', 'is_first_use': False, 'is_second_use': False}, 'num_in_party': 1, 'first_use': 0, 'second_use': 0}, {'name': {'name': 'ジバコイル', 'is_first_use': False, 'is_second_use': True}, 'num_in_party': 1, 'first_use': 0, 'second_use': 1}, {'name': {'name': 'エースバーン', 'is_first_use': True, 'is_second_use': False}, 'num_in_party': 1, 'first_use': 1, 'second_use': 0}, {'name': {'name': 'ウーラオス', 'is_first_use': False, 'is_second_use': False}, 'num_in_party': 1, 'first_use': 0, 'second_use': 0}, {'name': {'name': 'ミミッキュ', 'is_first_use': False, 'is_second_use': True}, 'num_in_party': 1, 'first_use': 0, 'second_use': 1}, {'name': {'name': 'クレセリア', 'is_first_use': False, 'is_second_use': False}, 'num_in_party': 1, 'first_use': 0, 'second_use': 0}, {'name': {'name': 'ユレイドル', 'is_first_use': False, 'is_second_use': False}, 'num_in_party': 1, 'first_use': 0, 'second_use': 0}, {'name': {'name': '火ロトム', 'is_first_use': False, 'is_second_use': False}, 'num_in_party': 1, 'first_use': 0, 'second_use': 0}, {'name': {'name': 'シロデスナ', 'is_first_use': True, 'is_second_use': False}, 'num_in_party': 1, 'first_use': 1, 'second_use': 0}, {'name': {'name': 'イオルブ', 'is_first_use': False, 'is_second_use': False}, 'num_in_party': 1, 'first_use': 0, 'second_use': 0}, {'name': {'name': 'カマスジョー', 'is_first_use': False, 'is_second_use': True}, 'num_in_party': 1, 'first_use': 0, 'second_use': 1}, {'name': {'name': 'オーロンゲ', 'is_first_use': False, 'is_second_use': True}, 'num_in_party': 1, 'first_use': 0, 'second_use': 1}]
+ 2020-12-21 12:05:58,221 - DEBUG - battle_record.py - finish function
+ 2020-12-21 12:08:52,227 - DEBUG - battle_record.py - start function
+ 2020-12-21 12:08:52,250 - DEBUG - battle_record.py - 'pokemon_battle_record.xlsx' sheet is ['S13', 'S13_statistics']
+ 2020-12-21 12:09:13,343 - DEBUG - battle_record.py - start function
+ 2020-12-21 12:09:13,364 - DEBUG - battle_record.py - 'pokemon_battle_record.xlsx' sheet is ['S13', 'S13_statistics']
+ 2020-12-21 12:09:42,127 - DEBUG - battle_record.py - start function
+ 2020-12-21 12:09:42,149 - DEBUG - battle_record.py - 'pokemon_battle_record.xlsx' sheet is ['S13', 'S13_statistics']
+ 2020-12-21 12:09:42,150 - DEBUG - battle_record.py - the kind of pokemons : 59
+ 2020-12-21 12:09:42,150 - DEBUG - battle_record.py - [{'name': 'クレッフィ', 'num_in_party': 1, 'first_use': 1, 'second_use': 0}, {'name': 'モンメン', 'num_in_party': 1, 'first_use': 0, 'second_use': 0}, {'name': 'アシレーヌ', 'num_in_party': 1, 'first_use': 0, 'second_use': 0}, {'name': 'ニンフィア', 'num_in_party': 1, 'first_use': 0, 'second_use': 0}, {'name': 'ミミッキュ', 'num_in_party': 4, 'first_use': 0, 'second_use': 2}, {'name': 'トゲキッス', 'num_in_party': 3, 'first_use': 0, 'second_use': 0}, {'name': 'タブンネ', 'num_in_party': 1, 'first_use': 0, 'second_use': 1}, {'name': 'サダイジャ', 'num_in_party': 2, 'first_use': 1, 'second_use': 0}, {'name': 'エンティ', 'num_in_party': 1, 'first_use': 0, 'second_use': 0}, {'name': 'ドラミドロ', 'num_in_party': 1, 'first_use': 1, 'second_use': 0}, {'name': 'Aガラガラ', 'num_in_party': 1, 'first_use': 0, 'second_use': 1}, {'name': 'ドリュウズ', 'num_in_party': 2, 'first_use': 0, 'second_use': 1}, {'name': 'カプ・コケコ', 'num_in_party': 1, 'first_use': 0, 'second_use': 0}, {'name': 'バンギラス', 'num_in_party': 1, 'first_use': 0, 'second_use': 0}, {'name': 'パルシェン', 'num_in_party': 1, 'first_use': 0, 'second_use': 1}, {'name': 'エースバーン', 'num_in_party': 5, 'first_use': 1, 'second_use': 2}, {'name': 'ゴリランダー', 'num_in_party': 1, 'first_use': 0, 'second_use': 0}, {'name': 'ウオノラゴン', 'num_in_party': 1, 'first_use': 1, 'second_use': 0}, {'name': 'サンダー', 'num_in_party': 4, 'first_use': 0, 'second_use': 1}, {'name': 'ルカリオ', 'num_in_party': 1, 'first_use': 0, 'second_use': 1}, {'name': 'ガブリアス', 'num_in_party': 1, 'first_use': 0, 'second_use': 0}, {'name': 'ヒヒダルマ', 'num_in_party': 1, 'first_use': 1, 'second_use': 0}, {'name': 'ポットデス', 'num_in_party': 1, 'first_use': 0, 'second_use': 0}, {'name': 'バルシェン', 'num_in_party': 1, 'first_use': 0, 'second_use': 1}, {'name': 'ボーマンダ', 'num_in_party': 1, 'first_use': 0, 'second_use': 1}, {'name': 'デスバーン', 'num_in_party': 1, 'first_use': 1, 'second_use': 0}, {'name': 'ボスゴドラ', 'num_in_party': 1, 'first_use': 0, 'second_use': 0}, {'name': 'パッチラゴン', 'num_in_party': 1, 'first_use': 0, 'second_use': 1}, {'name': 'ユキノオー', 'num_in_party': 1, 'first_use': 0, 'second_use': 0}, {'name': 'ラプラス', 'num_in_party': 2, 'first_use': 0, 'second_use': 1}, {'name': 'ぱっちる', 'num_in_party': 1, 'first_use': 0, 'second_use': 0}, {'name': 'トリトドン', 'num_in_party': 1, 'first_use': 0, 'second_use': 0}, {'name': 'ドラパルト', 'num_in_party': 1, 'first_use': 0, 'second_use': 1}, {'name': 'Gファイヤー', 'num_in_party': 1, 'first_use': 0, 'second_use': 0}, {'name': 'ウーラオス', 'num_in_party': 3, 'first_use': 1, 'second_use': 0}, {'name': 'スイクン', 'num_in_party': 2, 'first_use': 1, 'second_use': 0}, {'name': 'ハリーセン', 'num_in_party': 1, 'first_use': 1, 'second_use': 0}, {'name': 'ラグラージ', 'num_in_party': 1, 'first_use': 0, 'second_use': 0}, {'name': 'ドヒドイデ', 'num_in_party': 1, 'first_use': 0, 'second_use': 1}, {'name': 'オニシズクモ', 'num_in_party': 1, 'first_use': 0, 'second_use': 0}, {'name': 'ギャラドス', 'num_in_party': 1, 'first_use': 0, 'second_use': 1}, {'name': '水ロトム', 'num_in_party': 1, 'first_use': 0, 'second_use': 0}, {'name': 'ウツロイド', 'num_in_party': 1, 'first_use': 0, 'second_use': 1}, {'name': 'ツンデツンデ', 'num_in_party': 1, 'first_use': 0, 'second_use': 1}, {'name': 'アーゴヨン', 'num_in_party': 1, 'first_use': 1, 'second_use': 0}, {'name': 'シロデスナ', 'num_in_party': 2, 'first_use': 1, 'second_use': 0}, {'name': 'デデンネ', 'num_in_party': 1, 'first_use': 0, 'second_use': 0}, {'name': 'シルヴァディ', 'num_in_party': 1, 'first_use': 0, 'second_use': 0}, {'name': 'ネイティオ', 'num_in_party': 1, 'first_use': 0, 'second_use': 0}, {'name': 'アーマルド', 'num_in_party': 1, 'first_use': 0, 'second_use': 1}, {'name': 'タイレーツ', 'num_in_party': 1, 'first_use': 0, 'second_use': 1}, {'name': 'ハガネール', 'num_in_party': 1, 'first_use': 1, 'second_use': 0}, {'name': 'ジバコイル', 'num_in_party': 1, 'first_use': 0, 'second_use': 1}, {'name': 'クレセリア', 'num_in_party': 1, 'first_use': 0, 'second_use': 0}, {'name': 'ユレイドル', 'num_in_party': 1, 'first_use': 0, 'second_use': 0}, {'name': '火ロトム', 'num_in_party': 1, 'first_use': 0, 'second_use': 0}, {'name': 'イオルブ', 'num_in_party': 1, 'first_use': 0, 'second_use': 0}, {'name': 'カマスジョー', 'num_in_party': 1, 'first_use': 0, 'second_use': 1}, {'name': 'オーロンゲ', 'num_in_party': 1, 'first_use': 0, 'second_use': 1}]
+ 2020-12-21 12:09:42,150 - DEBUG - battle_record.py - finish function
+ 2020-12-21 12:12:10,763 - DEBUG - battle_record.py - start function
+ 2020-12-21 12:12:10,784 - DEBUG - battle_record.py - 'pokemon_battle_record.xlsx' sheet is ['S13', 'S13_statistics']
+ 2020-12-21 12:12:10,785 - DEBUG - battle_record.py - the kind of pokemons : 59
+ 2020-12-21 12:12:10,785 - DEBUG - battle_record.py - [{'name': 'クレッフィ', 'num_in_party': 1, 'first_use': 1, 'second_use': 0}, {'name': 'モンメン', 'num_in_party': 1, 'first_use': 0, 'second_use': 0}, {'name': 'アシレーヌ', 'num_in_party': 1, 'first_use': 0, 'second_use': 0}, {'name': 'ニンフィア', 'num_in_party': 1, 'first_use': 0, 'second_use': 0}, {'name': 'ミミッキュ', 'num_in_party': 4, 'first_use': 0, 'second_use': 2}, {'name': 'トゲキッス', 'num_in_party': 3, 'first_use': 0, 'second_use': 0}, {'name': 'タブンネ', 'num_in_party': 1, 'first_use': 0, 'second_use': 1}, {'name': 'サダイジャ', 'num_in_party': 2, 'first_use': 1, 'second_use': 0}, {'name': 'エンティ', 'num_in_party': 1, 'first_use': 0, 'second_use': 0}, {'name': 'ドラミドロ', 'num_in_party': 1, 'first_use': 1, 'second_use': 0}, {'name': 'Aガラガラ', 'num_in_party': 1, 'first_use': 0, 'second_use': 1}, {'name': 'ドリュウズ', 'num_in_party': 2, 'first_use': 0, 'second_use': 1}, {'name': 'カプ・コケコ', 'num_in_party': 1, 'first_use': 0, 'second_use': 0}, {'name': 'バンギラス', 'num_in_party': 1, 'first_use': 0, 'second_use': 0}, {'name': 'パルシェン', 'num_in_party': 1, 'first_use': 0, 'second_use': 1}, {'name': 'エースバーン', 'num_in_party': 5, 'first_use': 1, 'second_use': 2}, {'name': 'ゴリランダー', 'num_in_party': 1, 'first_use': 0, 'second_use': 0}, {'name': 'ウオノラゴン', 'num_in_party': 1, 'first_use': 1, 'second_use': 0}, {'name': 'サンダー', 'num_in_party': 4, 'first_use': 0, 'second_use': 1}, {'name': 'ルカリオ', 'num_in_party': 1, 'first_use': 0, 'second_use': 1}, {'name': 'ガブリアス', 'num_in_party': 1, 'first_use': 0, 'second_use': 0}, {'name': 'ヒヒダルマ', 'num_in_party': 1, 'first_use': 1, 'second_use': 0}, {'name': 'ポットデス', 'num_in_party': 1, 'first_use': 0, 'second_use': 0}, {'name': 'バルシェン', 'num_in_party': 1, 'first_use': 0, 'second_use': 1}, {'name': 'ボーマンダ', 'num_in_party': 1, 'first_use': 0, 'second_use': 1}, {'name': 'デスバーン', 'num_in_party': 1, 'first_use': 1, 'second_use': 0}, {'name': 'ボスゴドラ', 'num_in_party': 1, 'first_use': 0, 'second_use': 0}, {'name': 'パッチラゴン', 'num_in_party': 1, 'first_use': 0, 'second_use': 1}, {'name': 'ユキノオー', 'num_in_party': 1, 'first_use': 0, 'second_use': 0}, {'name': 'ラプラス', 'num_in_party': 2, 'first_use': 0, 'second_use': 1}, {'name': 'ぱっちる', 'num_in_party': 1, 'first_use': 0, 'second_use': 0}, {'name': 'トリトドン', 'num_in_party': 1, 'first_use': 0, 'second_use': 0}, {'name': 'ドラパルト', 'num_in_party': 1, 'first_use': 0, 'second_use': 1}, {'name': 'Gファイヤー', 'num_in_party': 1, 'first_use': 0, 'second_use': 0}, {'name': 'ウーラオス', 'num_in_party': 3, 'first_use': 1, 'second_use': 0}, {'name': 'スイクン', 'num_in_party': 2, 'first_use': 1, 'second_use': 0}, {'name': 'ハリーセン', 'num_in_party': 1, 'first_use': 1, 'second_use': 0}, {'name': 'ラグラージ', 'num_in_party': 1, 'first_use': 0, 'second_use': 0}, {'name': 'ドヒドイデ', 'num_in_party': 1, 'first_use': 0, 'second_use': 1}, {'name': 'オニシズクモ', 'num_in_party': 1, 'first_use': 0, 'second_use': 0}, {'name': 'ギャラドス', 'num_in_party': 1, 'first_use': 0, 'second_use': 1}, {'name': '水ロトム', 'num_in_party': 1, 'first_use': 0, 'second_use': 0}, {'name': 'ウツロイド', 'num_in_party': 1, 'first_use': 0, 'second_use': 1}, {'name': 'ツンデツンデ', 'num_in_party': 1, 'first_use': 0, 'second_use': 1}, {'name': 'アーゴヨン', 'num_in_party': 1, 'first_use': 1, 'second_use': 0}, {'name': 'シロデスナ', 'num_in_party': 2, 'first_use': 1, 'second_use': 0}, {'name': 'デデンネ', 'num_in_party': 1, 'first_use': 0, 'second_use': 0}, {'name': 'シルヴァディ', 'num_in_party': 1, 'first_use': 0, 'second_use': 0}, {'name': 'ネイティオ', 'num_in_party': 1, 'first_use': 0, 'second_use': 0}, {'name': 'アーマルド', 'num_in_party': 1, 'first_use': 0, 'second_use': 1}, {'name': 'タイレーツ', 'num_in_party': 1, 'first_use': 0, 'second_use': 1}, {'name': 'ハガネール', 'num_in_party': 1, 'first_use': 1, 'second_use': 0}, {'name': 'ジバコイル', 'num_in_party': 1, 'first_use': 0, 'second_use': 1}, {'name': 'クレセリア', 'num_in_party': 1, 'first_use': 0, 'second_use': 0}, {'name': 'ユレイドル', 'num_in_party': 1, 'first_use': 0, 'second_use': 0}, {'name': '火ロトム', 'num_in_party': 1, 'first_use': 0, 'second_use': 0}, {'name': 'イオルブ', 'num_in_party': 1, 'first_use': 0, 'second_use': 0}, {'name': 'カマスジョー', 'num_in_party': 1, 'first_use': 0, 'second_use': 1}, {'name': 'オーロンゲ', 'num_in_party': 1, 'first_use': 0, 'second_use': 1}]
+ 2020-12-21 12:12:10,812 - DEBUG - battle_record.py - finish function
+ 2020-12-21 12:22:18,340 - DEBUG - battle_record.py - start function
+ 2020-12-21 12:22:18,366 - DEBUG - battle_record.py - 'pokemon_battle_record.xlsx' sheet is ['S13', 'S13_statistics']
+ 2020-12-21 12:22:18,367 - DEBUG - battle_record.py - the kind of pokemons : 59
+ 2020-12-21 12:22:18,390 - DEBUG - battle_record.py - finish function
+ 2020-12-21 14:07:36,104 - DEBUG - battle_record.py - start function
+ 2020-12-21 14:07:36,128 - DEBUG - battle_record.py - 'pokemon_battle_record.xlsx' sheet is ['S13', 'S13_statistics']
+ 2020-12-21 14:07:36,129 - DEBUG - battle_record.py - the kind of pokemons : 59
+ 2020-12-21 14:07:36,151 - DEBUG - battle_record.py - finish function
