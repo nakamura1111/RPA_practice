@@ -1,74 +1,12 @@
 import openpyxl, logging, os
-logging.basicConfig(level=logging.DEBUG, format=' %(asctime)s - %(levelname)s - %(pathname)s - %(message)s', filename='battle_record.log')      # 初期設定 -> logging.debug() でログのターミナル表示ができる
+logging.basicConfig(level=logging.DEBUG, format=' %(asctime)s - %(levelname)s - %(pathname)s - %(message)s', filename='log/battle_record.log')      # 初期設定 -> logging.debug() でログのターミナル表示ができる
                     # 変数「level」以上のログを表示, ログの表示形式の作成（ログの発生時間 - ログのレベル - ログの内容（メッセージ））, ログファイルの出力(ターミナルには出力されなくなる)
-# logging.disable(logging.CRITICAL)       # ログの無効化（以下のログを表示しなくなる）
+logging.disable(logging.CRITICAL)       # ログの無効化（以下のログを表示しなくなる）
 # 重要度によって使い分ける debug() -> info() -> warning() -> error() -> critical()
 # LogRecord属性(formatの記述について)：https://docs.python.org/ja/3/library/logging.html#logrecord-attributes
 
-
-project_info = """
-\n---プロジェクト概要---
-・
-\n---条件---
-・
-\n---使い方--- 
-・
------------------------\n
-"""
-
-class PkmnsIncParty():
-  """ """
-  pkmns = []
-  # def __init__(self):
-
-  def input(self, pkmn_input):
-    index_p = -1
-    for i, dictionary in enumerate(self.pkmns):
-      if pkmn_input['name'] == dictionary['name']:
-        index_p = i
-        break
-    if index_p == -1:
-      self.add_pkmn(pkmn_input['name'])
-      index_p = len(self.pkmns) - 1
-
-    self.add_num(index_p, pkmn_input)
-    
-    return
-
-  def add_pkmn(self, pkmn_new):
-    self.pkmns.append( {'name': pkmn_new, 'num_in_party': 0, 'first_use': 0, 'second_use': 0} )
-    return
-  
-  def add_num(self, index_p, pkmn_input):
-    self.pkmns[index_p]['num_in_party'] += 1
-    if pkmn_input['is_first_use']:
-      self.pkmns[index_p]['first_use'] += 1
-    if pkmn_input['is_second_use']:
-      self.pkmns[index_p]['second_use'] += 1
-    return
-    
-  def output_all(self):
-    return self.pkmns
-  
-  # 連想配列のソート：https://qiita.com/yousuke_yamaguchi/items/23014a3c8d8beb8ba073
-  def sort_by_num_in_party(self):
-    return sorted(self.pkmns, key=lambda x:x['num_in_party'], reverse=True)
-    
-
-def search_excel_files():
-  # ユーザフォルダへ移動
-  user_name = os.environ.get('USER')
-  os.chdir( os.path.join('/Users', user_name) )
-  file_full_path = None
-  for foldername, subfolders, files in os.walk(os.getcwd()):
-    # ファイルの名前を調べる
-    for filename in files:
-      if filename == 'pokemon_battle_record.xlsx':
-        file_full_path = os.path.join(foldername, filename)
-        break
-    if file_full_path != None:
-      break
-  return file_full_path
+from pkmns_inc_party import PkmnsIncParty
+from search_excel_files import *
 
 def battle_record():
   # # ファイル検索
@@ -115,11 +53,3 @@ def battle_record():
     write_sheet['E{}'.format(i+2)] = round( scnd/dnm*100, 1 )
   workbook.save('/Users/nakamurakoyo/Desktop/pokemon_battle_record_copy.xlsx')
   print('--------\nSaved\n----------\n')
-
-
-# メイン
-logging.debug('start function')
-print('\n--------\nStart\n----------\n')
-battle_record()
-logging.debug('finish function')
-print('--------\nFinish\n----------\n')

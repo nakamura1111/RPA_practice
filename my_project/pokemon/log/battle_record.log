@@ -448,3 +448,11 @@
  2020-12-21 14:07:36,128 - DEBUG - battle_record.py - 'pokemon_battle_record.xlsx' sheet is ['S13', 'S13_statistics']
  2020-12-21 14:07:36,129 - DEBUG - battle_record.py - the kind of pokemons : 59
  2020-12-21 14:07:36,151 - DEBUG - battle_record.py - finish function
+ 2020-12-21 18:28:31,245 - DEBUG - battle_record.py - start function
+ 2020-12-21 18:28:31,342 - DEBUG - battle_record.py - 'pokemon_battle_record.xlsx' sheet is ['input_template', 'S13', 'S13_statistics']
+ 2020-12-21 18:28:31,343 - DEBUG - battle_record.py - the kind of pokemons : 59
+ 2020-12-21 18:28:31,368 - DEBUG - battle_record.py - finish function
+ 2020-12-21 18:28:54,370 - DEBUG - battle_record.py - start function
+ 2020-12-21 18:28:54,397 - DEBUG - battle_record.py - 'pokemon_battle_record.xlsx' sheet is ['input_template', 'S13', 'S13_statistics']
+ 2020-12-21 18:28:54,399 - DEBUG - battle_record.py - the kind of pokemons : 70
+ 2020-12-21 18:28:54,458 - DEBUG - battle_record.py - finish function
