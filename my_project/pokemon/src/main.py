@@ -36,13 +36,10 @@ def battle_record():
   pkmns_from_excel = PkmnsIncParty()
   while read_sheet['C{}'.format(7*i_btl+2)].value != None:  
     for i_pkmn in range(6):
-      num_low = 7*i_btl+2+i_pkmn
-      pkmn_input = {'name': None, 'is_first_use': False, 'is_second_use': False}
-      pkmn_input['name'] = read_sheet['C{}'.format(num_low)].value
-      if read_sheet['D{}'.format(num_low)].value == 1:
-        pkmn_input['is_first_use'] = True
-      if read_sheet['D{}'.format(num_low)].value == 2:
-        pkmn_input['is_second_use'] = True
+      num_row = 7*i_btl+2+i_pkmn
+      pkmn_input = {'name': None, 'use_order': None}
+      pkmn_input['name'] = read_sheet['C{}'.format(num_row)].value
+      pkmn_input['use_order'] = read_sheet['D{}'.format(num_row)].value
       pkmns_from_excel.input(pkmn_input)
     i_btl += 1
   logging.debug('the kind of pokemons : {}'.format( len(pkmns_from_excel.output_all()) ) )
@@ -55,12 +52,12 @@ def battle_record():
   # 書き込みとセーブ
   write_sheet = workbook.get_sheet_by_name('S13_statistics')
   for i, pkmn_info in enumerate( pkmns_from_excel.sort_by_num_in_party() ):
-    dnm = pkmn_info['num_in_party']
+    dnm = pkmn_info['cnt_in_party']
     if dnm < 2:
       break
     write_sheet['A{}'.format(i+2)] = pkmn_info['name']
-    frst = float(pkmn_info['first_use'])
-    scnd = float(pkmn_info['second_use'])
+    frst = float(pkmn_info['cnt_first_use'])
+    scnd = float(pkmn_info['cnt_secont_use'])
     write_sheet['B{}'.format(i+2)] = dnm
     write_sheet['C{}'.format(i+2)] = round( (frst+scnd)/dnm*100, 1 )
     write_sheet['D{}'.format(i+2)] = round( frst/dnm*100, 1 )
