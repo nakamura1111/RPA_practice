@@ -23,7 +23,7 @@ class BaseStat():
   
   def search(self, key_pkmn):
     # ポケモン名の前処理
-
+    
     # ポケモン種族値の取得
     for pkmn in self.pkmns_name_tag:
       if pkmn.contents[0] == key_pkmn:
@@ -42,3 +42,4 @@ class BaseStat():
 # ans = base_stat.search('フシギバナ')
 # if ans != 'Not Match':
 #   print('base status of {} is {}'.format(ans[0][0], ans[1:]))
+ 

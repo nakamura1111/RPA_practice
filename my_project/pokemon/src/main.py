@@ -62,11 +62,16 @@ def battle_record():
     write_sheet['C{}'.format(i+2)] = round( (frst+scnd)/dnm*100, 1 )
     write_sheet['D{}'.format(i+2)] = round( frst/dnm*100, 1 )
     write_sheet['E{}'.format(i+2)] = round( scnd/dnm*100, 1 )
-    bs = base_stat_all.search  ( pkmn_info['name'] )
-    for j in range(6):
-      write_sheet.cell(column=j+6, row=i+2).value = int(bs[j+1]) 
+    try:
+      bs = base_stat_all.search  ( pkmn_info['name'] )
+      for j in range(6):
+      try:
+        write_sheet.cell(column=j+6, row=i+2).value = int(bs[j+1])
+    except ValueError:
+        print('value error at the pokemon : {}'.format(pkmn_info))
 
   workbook.save('/Users/nakamurakoyo/Desktop/pokemon_battle_record_copy.xlsx')
+  ################# セーブしたら開きたいな #####################
   print('--------\nSaved\n----------\n')
 
 # メイン
