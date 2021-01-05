@@ -1546,3 +1546,21 @@
  2021-01-05 17:53:57,205 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - num pokemon : 732
  2021-01-05 17:53:57,206 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['エースバーン'], keyword : ['エースバーン']
  2021-01-05 17:53:57,206 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ウツロイド'], keyword : ['ウツロイド']
+ 2021-01-05 18:27:44,679 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - start function
+ 2021-01-05 18:27:44,727 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/battle_save.py - 'pokemon_battle_record.xlsx' sheet is ['input_template', 'S13', 'S13_statistics', 'S14', 'S14_statistics']
+ 2021-01-05 18:27:44,762 - DEBUG - src/main.py - 'pokemon_battle_record.xlsx' sheet is ['input_template', 'S13', 'S13_statistics', 'S14', 'S14_statistics']
+ 2021-01-05 18:27:44,763 - DEBUG - src/main.py - the kind of pokemons : 16
+ 2021-01-05 18:27:44,907 - DEBUG - /Users/nakamurakoyo/opt/anaconda3/lib/python3.8/site-packages/urllib3/connectionpool.py - Starting new HTTPS connection (1): yakkun.com:443
+ 2021-01-05 18:27:45,046 - DEBUG - /Users/nakamurakoyo/opt/anaconda3/lib/python3.8/site-packages/urllib3/connectionpool.py - https://yakkun.com:443 "GET /swsh/stats_list.htm HTTP/1.1" 200 None
+ 2021-01-05 18:27:45,326 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - num pokemon : 732
+ 2021-01-05 18:27:45,327 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['エースバーン'], keyword : ['エースバーン']
+ 2021-01-05 18:27:45,328 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ウツロイド'], keyword : ['ウツロイド']
+ 2021-01-05 18:30:05,545 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - start function
+ 2021-01-05 18:30:05,590 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/battle_save.py - 'pokemon_battle_record.xlsx' sheet is ['input_template', 'S13', 'S13_statistics', 'S14', 'S14_statistics']
+ 2021-01-05 18:30:05,621 - DEBUG - src/main.py - 'pokemon_battle_record.xlsx' sheet is ['input_template', 'S13', 'S13_statistics', 'S14', 'S14_statistics']
+ 2021-01-05 18:30:05,621 - DEBUG - src/main.py - the kind of pokemons : 16
+ 2021-01-05 18:30:05,658 - DEBUG - /Users/nakamurakoyo/opt/anaconda3/lib/python3.8/site-packages/urllib3/connectionpool.py - Starting new HTTPS connection (1): yakkun.com:443
+ 2021-01-05 18:30:05,798 - DEBUG - /Users/nakamurakoyo/opt/anaconda3/lib/python3.8/site-packages/urllib3/connectionpool.py - https://yakkun.com:443 "GET /swsh/stats_list.htm HTTP/1.1" 200 None
+ 2021-01-05 18:30:06,073 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - num pokemon : 732
+ 2021-01-05 18:30:06,073 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['エースバーン'], keyword : ['エースバーン']
+ 2021-01-05 18:30:06,074 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ウツロイド'], keyword : ['ウツロイド']

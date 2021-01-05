@@ -28,11 +28,11 @@ def battle_record():
   #   return
   # ファイルを開く
   workbook = openpyxl.load_workbook( '/Users/nakamurakoyo/Desktop/pokemon_battle_record.xlsx' )
-  logging.debug('\'pokemon_battle_record.xlsx\' sheet is {}'.format(workbook.get_sheet_names()))
+  logging.debug('\'pokemon_battle_record.xlsx\' sheet is {}'.format(workbook.sheetnames))
   print('--------\nOpened File\n----------\n')
 
   # データ読み込みとデータ操作
-  read_sheet = workbook.get_sheet_by_name('S14')
+  read_sheet = workbook['S14']
   i_btl = 0
   pkmns_from_excel = PkmnsIncParty()
   while read_sheet['C{}'.format(7*i_btl+2)].value != None:  
@@ -52,7 +52,7 @@ def battle_record():
   base_stat_all = BaseStat()
 
   # 書き込みとセーブ
-  write_sheet = workbook.get_sheet_by_name('S14_statistics')
+  write_sheet = workbook['S14_statistics']
   for i, pkmn_info in enumerate( pkmns_from_excel.sort_by_num_in_party() ):
     dnm = pkmn_info['cnt_in_party']
     if dnm < 2:
