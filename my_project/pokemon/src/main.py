@@ -1,13 +1,14 @@
 import openpyxl, logging, os
 logging.basicConfig(level=logging.DEBUG, format=' %(asctime)s - %(levelname)s - %(pathname)s - %(message)s', filename='log/battle_record.log')      # 初期設定 -> logging.debug() でログのターミナル表示ができる
                     # 変数「level」以上のログを表示, ログの表示形式の作成（ログの発生時間 - ログのレベル - ログの内容（メッセージ））, ログファイルの出力(ターミナルには出力されなくなる)
-logging.disable(logging.CRITICAL)       # ログの無効化（以下のログを表示しなくなる）
+# logging.disable(logging.CRITICAL)       # ログの無効化（以下のログを表示しなくなる）
 # 重要度によって使い分ける debug() -> info() -> warning() -> error() -> critical()
 # LogRecord属性(formatの記述について)：https://docs.python.org/ja/3/library/logging.html#logrecord-attributes
 
 from basestat_get import BaseStat
 from pkmns_inc_party import PkmnsIncParty
 from search_excel_files import *
+from battle_save import *
 
 project_info = """
 \n---プロジェクト概要---
@@ -31,7 +32,7 @@ def battle_record():
   print('--------\nOpened File\n----------\n')
 
   # データ読み込みとデータ操作
-  read_sheet = workbook.get_sheet_by_name('S13')
+  read_sheet = workbook.get_sheet_by_name('S14')
   i_btl = 0
   pkmns_from_excel = PkmnsIncParty()
   while read_sheet['C{}'.format(7*i_btl+2)].value != None:  
@@ -39,6 +40,7 @@ def battle_record():
       num_row = 7*i_btl+2+i_pkmn
       pkmn_input = {'name': None, 'use_order': None}
       pkmn_input['name'] = read_sheet['C{}'.format(num_row)].value
+      # pkmn_input['name'] = replace_pkmn_name(pkmn_input['name'])
       pkmn_input['use_order'] = read_sheet['D{}'.format(num_row)].value
       pkmns_from_excel.input(pkmn_input)
     i_btl += 1
@@ -50,7 +52,7 @@ def battle_record():
   base_stat_all = BaseStat()
 
   # 書き込みとセーブ
-  write_sheet = workbook.get_sheet_by_name('S13_statistics')
+  write_sheet = workbook.get_sheet_by_name('S14_statistics')
   for i, pkmn_info in enumerate( pkmns_from_excel.sort_by_num_in_party() ):
     dnm = pkmn_info['cnt_in_party']
     if dnm < 2:
@@ -65,17 +67,17 @@ def battle_record():
     try:
       bs = base_stat_all.search  ( pkmn_info['name'] )
       for j in range(6):
-      try:
         write_sheet.cell(column=j+6, row=i+2).value = int(bs[j+1])
     except ValueError:
         print('value error at the pokemon : {}'.format(pkmn_info))
 
-  workbook.save('/Users/nakamurakoyo/Desktop/pokemon_battle_record_copy.xlsx')
+  workbook.save('/Users/nakamurakoyo/Desktop/pokemon_battle_record.xlsx')
   ################# セーブしたら開きたいな #####################
   print('--------\nSaved\n----------\n')
 
 # メイン
 if __name__ == "__main__":
   print('\n--------\nStart\n----------\n')
+  battle_save()
   battle_record()
   print('--------\nFinish\n----------\n')

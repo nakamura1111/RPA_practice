@@ -23,23 +23,48 @@ class BaseStat():
   
   def search(self, key_pkmn):
     # ポケモン名の前処理
-    
+    key_pkmn = self.__replace_pkmn_name(key_pkmn)
     # ポケモン種族値の取得
     for pkmn in self.pkmns_name_tag:
-      if pkmn.contents[0] == key_pkmn:
+      if (len(key_pkmn) == 1) & (pkmn.contents == key_pkmn):
         logging.debug( 'children element : {}, keyword : {}'.format(pkmn.contents, key_pkmn) )
-        parent_tag = pkmn.parent
-        base_stat = [pkmn.contents]
-        for i in range(6):
-          parent_tag = parent_tag.next_sibling
-          base_stat.append(parent_tag.contents[0])
-          if len(base_stat)==7:
-            break
-        return base_stat
+        return self.__get_base_stat(pkmn, key_pkmn)
+      elif (len(key_pkmn) == 2) & (len(pkmn.contents) == 3):
+        if (key_pkmn[0] == pkmn.contents[0]) & (key_pkmn[1] == pkmn.contents[2].contents[0]):
+          logging.debug( 'children element : {}, keyword : {}'.format(pkmn.contents, key_pkmn) )
+          return self.__get_base_stat(pkmn, key_pkmn)
+    logging.debug('Not Match... ,  search pokemon : {}'.format(key_pkmn))
     return 'Not Match'
+  
+  def __replace_pkmn_name(self, key_pkmn):
+    if 'A' in key_pkmn:
+      return [key_pkmn.replace('A', ''), '(アローラのすがた)']
+    elif 'G' in key_pkmn:
+      return [key_pkmn.replace('G', ''), '(ガラルのすがた)']
+    elif '霊' in key_pkmn:
+      return [key_pkmn.replace('霊', ''), '(れいじゅうフォルム)']
+    elif 'ロトム' in key_pkmn:
+      return ['ロトム', '({})'.format(key_pkmn)]
+    else:
+      return [key_pkmn]
+  
+  def __get_base_stat(self, tag_key_pkmn, key_pkmn):
+    tag_parent = tag_key_pkmn.parent
+    base_stat = [tag_key_pkmn.contents]
+    for i in range(6):
+      tag_parent = tag_parent.next_sibling
+      base_stat.append(tag_parent.contents[0])
+      if len(base_stat)==7:
+        break
+    return base_stat
 
-# base_stat = BaseStat()
-# ans = base_stat.search('フシギバナ')
-# if ans != 'Not Match':
-#   print('base status of {} is {}'.format(ans[0][0], ans[1:]))
+
+# 単体動作確認用
+if __name__ == "__main__":
+  base_stat = BaseStat()
+  ans = base_stat.search('フシギバナ')
+  if ans != 'Not Match':
+    print('base status of {} is {}'.format(ans[0][0], ans[1:]))
+  else:
+    print(ans)
  

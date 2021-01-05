@@ -75,7 +75,7 @@ def main():
       regex_sentence = create_regex_sentence(regex_shelve[sys.argv[3]])
       logging.info(regex_sentence)
       search_target_regex = re.compile( regex_sentence )      # https://docs.python.org/2/library/re.html#re.escape
-      extension_regex = re.compile('\.cpp$')
+      extension_regex = re.compile('\.py$')
       for foldername, subfolders, filenames in os.walk(search_dir):
         logging.debug('searching  {}  folder ...'.format(foldername))
         for filename in filenames:
