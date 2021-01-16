@@ -47,7 +47,8 @@ class InfosPkmnsFromWeb():
       ele = self.browser.find_element_by_xpath("//button[@value='zukan']").click()
       # print(ele.get_attribute('value'))
       # webブラウザに表示
-      webbrowser.open(self.browser.current_url)
+      url = self.browser.current_url
+      webbrowser.open(url)
     # browser.close()
       
   def display_damage_calc(self):
@@ -55,14 +56,26 @@ class InfosPkmnsFromWeb():
     
     
   def display_pokemons_from_database(self):
-    """"""
-    # https://swsh.pokedb.tokyo/pokemon/show/[図鑑番号]-00?season=14&rule=0
+    """
+    アクセスURL: https://swsh.pokedb.tokyo/pokemon/show/[図鑑番号]-00?season=14&rule=0
+    """
+    for pkmn in self.pkmns:
+      # 基礎情報ページへ遷移
+      self.browser.get('https://swsh.pokedb.tokyo/')
+      ele = self.browser.find_element_by_xpath("//input[@placeholder='ポケモン検索']")
+      ele.send_keys(pkmn)
+      ele.submit()
+      # print(ele.get_attribute('value'))
+      # webブラウザに表示
+      url = self.browser.current_url
+      webbrowser.open(url)
 
 # メイン
 if __name__ == "__main__":
   print('\n--------\nStart\n----------\n')
   # ポケモン二体入力
   pkmn_input = []
+  webbrowser.open('https://google.com/')
   while len(pkmn_input)!=2:
     print('対面しているポケモンを入力（全角スペース区切り）')
     pkmn_input = input().split()
@@ -75,4 +88,6 @@ if __name__ == "__main__":
   infos_pkmns.display_pokemons_from_database()
   # ダメージ計算サイトの出力
   infos_pkmns.display_damage_calc()
+  # ブラウザを閉じる
+  infos_pkmns.browser.close()
   print('--------\nFinish\n----------\n')
