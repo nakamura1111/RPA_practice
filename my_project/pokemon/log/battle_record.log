@@ -1564,3 +1564,507 @@
  2021-01-05 18:30:06,073 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - num pokemon : 732
  2021-01-05 18:30:06,073 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['エースバーン'], keyword : ['エースバーン']
  2021-01-05 18:30:06,074 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ウツロイド'], keyword : ['ウツロイド']
+ 2021-01-06 18:05:37,382 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - start function
+ 2021-01-06 18:05:37,426 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/battle_save.py - 'pokemon_battle_record.xlsx' sheet is ['input_template', 'S13', 'S13_statistics', 'S14', 'S14_statistics']
+ 2021-01-06 18:05:37,500 - DEBUG - src/main.py - 'pokemon_battle_record.xlsx' sheet is ['input_template', 'S13', 'S13_statistics', 'S14', 'S14_statistics']
+ 2021-01-06 18:05:37,500 - DEBUG - src/main.py - the kind of pokemons : 20
+ 2021-01-06 18:05:37,521 - DEBUG - /Users/nakamurakoyo/opt/anaconda3/lib/python3.8/site-packages/urllib3/connectionpool.py - Starting new HTTPS connection (1): yakkun.com:443
+ 2021-01-06 18:05:37,637 - DEBUG - /Users/nakamurakoyo/opt/anaconda3/lib/python3.8/site-packages/urllib3/connectionpool.py - https://yakkun.com:443 "GET /swsh/stats_list.htm HTTP/1.1" 200 None
+ 2021-01-06 18:05:37,896 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - num pokemon : 732
+ 2021-01-06 18:05:37,896 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['エースバーン'], keyword : ['エースバーン']
+ 2021-01-06 18:05:37,896 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ウツロイド'], keyword : ['ウツロイド']
+ 2021-01-06 18:05:37,897 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ナットレイ'], keyword : ['ナットレイ']
+ 2021-01-06 18:12:45,368 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - start function
+ 2021-01-06 18:12:45,412 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/battle_save.py - 'pokemon_battle_record.xlsx' sheet is ['input_template', 'S13', 'S13_statistics', 'S14', 'S14_statistics']
+ 2021-01-06 18:12:45,508 - DEBUG - src/main.py - 'pokemon_battle_record.xlsx' sheet is ['input_template', 'S13', 'S13_statistics', 'S14', 'S14_statistics']
+ 2021-01-06 18:12:45,509 - DEBUG - src/main.py - the kind of pokemons : 26
+ 2021-01-06 18:12:45,540 - DEBUG - /Users/nakamurakoyo/opt/anaconda3/lib/python3.8/site-packages/urllib3/connectionpool.py - Starting new HTTPS connection (1): yakkun.com:443
+ 2021-01-06 18:12:45,640 - DEBUG - /Users/nakamurakoyo/opt/anaconda3/lib/python3.8/site-packages/urllib3/connectionpool.py - https://yakkun.com:443 "GET /swsh/stats_list.htm HTTP/1.1" 200 None
+ 2021-01-06 18:12:45,925 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - num pokemon : 732
+ 2021-01-06 18:12:45,925 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['エースバーン'], keyword : ['エースバーン']
+ 2021-01-06 18:12:45,926 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ウツロイド'], keyword : ['ウツロイド']
+ 2021-01-06 18:12:45,926 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ナットレイ'], keyword : ['ナットレイ']
+ 2021-01-06 18:22:40,189 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - start function
+ 2021-01-06 18:22:40,239 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/battle_save.py - 'pokemon_battle_record.xlsx' sheet is ['input_template', 'S13', 'S13_statistics', 'S14', 'S14_statistics']
+ 2021-01-06 18:22:40,311 - DEBUG - src/main.py - 'pokemon_battle_record.xlsx' sheet is ['input_template', 'S13', 'S13_statistics', 'S14', 'S14_statistics']
+ 2021-01-06 18:22:40,312 - DEBUG - src/main.py - the kind of pokemons : 30
+ 2021-01-06 18:22:40,338 - DEBUG - /Users/nakamurakoyo/opt/anaconda3/lib/python3.8/site-packages/urllib3/connectionpool.py - Starting new HTTPS connection (1): yakkun.com:443
+ 2021-01-06 18:22:40,453 - DEBUG - /Users/nakamurakoyo/opt/anaconda3/lib/python3.8/site-packages/urllib3/connectionpool.py - https://yakkun.com:443 "GET /swsh/stats_list.htm HTTP/1.1" 200 None
+ 2021-01-06 18:22:40,714 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - num pokemon : 732
+ 2021-01-06 18:22:40,714 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['エースバーン'], keyword : ['エースバーン']
+ 2021-01-06 18:22:40,715 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ウツロイド'], keyword : ['ウツロイド']
+ 2021-01-06 18:22:40,715 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ナットレイ'], keyword : ['ナットレイ']
+ 2021-01-06 18:22:40,715 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['カバルドン'], keyword : ['カバルドン']
+ 2021-01-06 18:22:40,715 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ミロカロス'], keyword : ['ミロカロス']
+ 2021-01-06 18:32:06,912 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - start function
+ 2021-01-06 18:32:06,952 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/battle_save.py - 'pokemon_battle_record.xlsx' sheet is ['input_template', 'S13', 'S13_statistics', 'S14', 'S14_statistics']
+ 2021-01-06 18:32:07,033 - DEBUG - src/main.py - 'pokemon_battle_record.xlsx' sheet is ['input_template', 'S13', 'S13_statistics', 'S14', 'S14_statistics']
+ 2021-01-06 18:32:07,033 - DEBUG - src/main.py - the kind of pokemons : 33
+ 2021-01-06 18:32:07,061 - DEBUG - /Users/nakamurakoyo/opt/anaconda3/lib/python3.8/site-packages/urllib3/connectionpool.py - Starting new HTTPS connection (1): yakkun.com:443
+ 2021-01-06 18:32:07,183 - DEBUG - /Users/nakamurakoyo/opt/anaconda3/lib/python3.8/site-packages/urllib3/connectionpool.py - https://yakkun.com:443 "GET /swsh/stats_list.htm HTTP/1.1" 200 None
+ 2021-01-06 18:32:07,449 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - num pokemon : 732
+ 2021-01-06 18:32:07,449 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['エースバーン'], keyword : ['エースバーン']
+ 2021-01-06 18:32:07,450 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ランドロス', <br/>, <span class="small">(れいじゅうフォルム)</span>], keyword : ['ランドロス', '(れいじゅうフォルム)']
+ 2021-01-06 18:32:07,450 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['スイクン'], keyword : ['スイクン']
+ 2021-01-06 18:32:07,450 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ウツロイド'], keyword : ['ウツロイド']
+ 2021-01-06 18:32:07,451 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ナットレイ'], keyword : ['ナットレイ']
+ 2021-01-06 18:32:07,451 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['カバルドン'], keyword : ['カバルドン']
+ 2021-01-06 18:32:07,451 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ミロカロス'], keyword : ['ミロカロス']
+ 2021-01-06 18:32:07,451 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['テッカグヤ'], keyword : ['テッカグヤ']
+ 2021-01-06 18:43:46,246 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - start function
+ 2021-01-06 18:43:46,305 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/battle_save.py - 'pokemon_battle_record.xlsx' sheet is ['input_template', 'S13', 'S13_statistics', 'S14', 'S14_statistics']
+ 2021-01-06 18:43:46,396 - DEBUG - src/main.py - 'pokemon_battle_record.xlsx' sheet is ['input_template', 'S13', 'S13_statistics', 'S14', 'S14_statistics']
+ 2021-01-06 18:43:46,397 - DEBUG - src/main.py - the kind of pokemons : 38
+ 2021-01-06 18:43:46,425 - DEBUG - /Users/nakamurakoyo/opt/anaconda3/lib/python3.8/site-packages/urllib3/connectionpool.py - Starting new HTTPS connection (1): yakkun.com:443
+ 2021-01-06 18:43:46,548 - DEBUG - /Users/nakamurakoyo/opt/anaconda3/lib/python3.8/site-packages/urllib3/connectionpool.py - https://yakkun.com:443 "GET /swsh/stats_list.htm HTTP/1.1" 200 None
+ 2021-01-06 18:43:46,806 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - num pokemon : 732
+ 2021-01-06 18:43:46,807 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['エースバーン'], keyword : ['エースバーン']
+ 2021-01-06 18:43:46,807 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ランドロス', <br/>, <span class="small">(れいじゅうフォルム)</span>], keyword : ['ランドロス', '(れいじゅうフォルム)']
+ 2021-01-06 18:43:46,807 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['スイクン'], keyword : ['スイクン']
+ 2021-01-06 18:43:46,808 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ウツロイド'], keyword : ['ウツロイド']
+ 2021-01-06 18:43:46,808 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ナットレイ'], keyword : ['ナットレイ']
+ 2021-01-06 18:43:46,808 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['カバルドン'], keyword : ['カバルドン']
+ 2021-01-06 18:43:46,808 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ミロカロス'], keyword : ['ミロカロス']
+ 2021-01-06 18:43:46,809 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - Not Match... ,  search pokemon : ['ギルガルド']
+ 2021-01-06 18:43:46,809 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['テッカグヤ'], keyword : ['テッカグヤ']
+ 2021-01-06 18:46:05,194 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - start function
+ 2021-01-06 18:46:05,235 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/battle_save.py - 'pokemon_battle_record.xlsx' sheet is ['input_template', 'S13', 'S13_statistics', 'S14', 'S14_statistics']
+ 2021-01-06 18:46:05,266 - DEBUG - src/main.py - 'pokemon_battle_record.xlsx' sheet is ['input_template', 'S13', 'S13_statistics', 'S14', 'S14_statistics']
+ 2021-01-06 18:46:05,267 - DEBUG - src/main.py - the kind of pokemons : 38
+ 2021-01-06 18:46:05,295 - DEBUG - /Users/nakamurakoyo/opt/anaconda3/lib/python3.8/site-packages/urllib3/connectionpool.py - Starting new HTTPS connection (1): yakkun.com:443
+ 2021-01-06 18:46:05,419 - DEBUG - /Users/nakamurakoyo/opt/anaconda3/lib/python3.8/site-packages/urllib3/connectionpool.py - https://yakkun.com:443 "GET /swsh/stats_list.htm HTTP/1.1" 200 None
+ 2021-01-06 18:46:05,664 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - num pokemon : 732
+ 2021-01-06 18:46:05,665 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['エースバーン'], keyword : ['エースバーン']
+ 2021-01-06 18:46:05,665 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ランドロス', <br/>, <span class="small">(れいじゅうフォルム)</span>], keyword : ['ランドロス', '(れいじゅうフォルム)']
+ 2021-01-06 18:46:05,665 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['スイクン'], keyword : ['スイクン']
+ 2021-01-06 18:46:05,666 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ウツロイド'], keyword : ['ウツロイド']
+ 2021-01-06 18:46:05,666 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ナットレイ'], keyword : ['ナットレイ']
+ 2021-01-06 18:46:05,666 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['カバルドン'], keyword : ['カバルドン']
+ 2021-01-06 18:46:05,666 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ミロカロス'], keyword : ['ミロカロス']
+ 2021-01-06 18:46:05,666 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - Not Match... ,  search pokemon : ['ギルガルド']
+ 2021-01-06 18:46:05,667 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['テッカグヤ'], keyword : ['テッカグヤ']
+ 2021-01-08 21:08:37,160 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - start function
+ 2021-01-08 21:08:37,205 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/battle_save.py - 'pokemon_battle_record.xlsx' sheet is ['input_template', 'S13', 'S13_statistics', 'S14', 'S14_statistics']
+ 2021-01-08 21:08:37,416 - DEBUG - src/main.py - 'pokemon_battle_record.xlsx' sheet is ['input_template', 'S13', 'S13_statistics', 'S14', 'S14_statistics']
+ 2021-01-08 21:08:37,417 - DEBUG - src/main.py - the kind of pokemons : 42
+ 2021-01-08 21:08:37,449 - DEBUG - /Users/nakamurakoyo/opt/anaconda3/lib/python3.8/site-packages/urllib3/connectionpool.py - Starting new HTTPS connection (1): yakkun.com:443
+ 2021-01-08 21:08:37,602 - DEBUG - /Users/nakamurakoyo/opt/anaconda3/lib/python3.8/site-packages/urllib3/connectionpool.py - https://yakkun.com:443 "GET /swsh/stats_list.htm HTTP/1.1" 200 None
+ 2021-01-08 21:08:37,856 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - num pokemon : 732
+ 2021-01-08 21:08:37,858 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['エースバーン'], keyword : ['エースバーン']
+ 2021-01-08 21:08:37,859 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ランドロス', <br/>, <span class="small">(れいじゅうフォルム)</span>], keyword : ['ランドロス', '(れいじゅうフォルム)']
+ 2021-01-08 21:08:37,859 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ドサイドン'], keyword : ['ドサイドン']
+ 2021-01-08 21:08:37,859 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['スイクン'], keyword : ['スイクン']
+ 2021-01-08 21:08:37,860 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ウツロイド'], keyword : ['ウツロイド']
+ 2021-01-08 21:08:37,860 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ナットレイ'], keyword : ['ナットレイ']
+ 2021-01-08 21:08:37,860 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['カバルドン'], keyword : ['カバルドン']
+ 2021-01-08 21:08:37,860 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ミロカロス'], keyword : ['ミロカロス']
+ 2021-01-08 21:08:37,861 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - Not Match... ,  search pokemon : ['ギルガルド']
+ 2021-01-08 21:08:37,861 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['テッカグヤ'], keyword : ['テッカグヤ']
+ 2021-01-08 21:08:37,861 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ガブリアス'], keyword : ['ガブリアス']
+ 2021-01-08 21:22:46,363 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - start function
+ 2021-01-08 21:22:46,418 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/battle_save.py - 'pokemon_battle_record.xlsx' sheet is ['input_template', 'S13', 'S13_statistics', 'S14', 'S14_statistics']
+ 2021-01-08 21:22:46,539 - DEBUG - src/main.py - 'pokemon_battle_record.xlsx' sheet is ['input_template', 'S13', 'S13_statistics', 'S14', 'S14_statistics']
+ 2021-01-08 21:22:46,541 - DEBUG - src/main.py - the kind of pokemons : 46
+ 2021-01-08 21:22:46,573 - DEBUG - /Users/nakamurakoyo/opt/anaconda3/lib/python3.8/site-packages/urllib3/connectionpool.py - Starting new HTTPS connection (1): yakkun.com:443
+ 2021-01-08 21:22:46,721 - DEBUG - /Users/nakamurakoyo/opt/anaconda3/lib/python3.8/site-packages/urllib3/connectionpool.py - https://yakkun.com:443 "GET /swsh/stats_list.htm HTTP/1.1" 200 None
+ 2021-01-08 21:22:46,975 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - num pokemon : 732
+ 2021-01-08 21:22:46,976 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['エースバーン'], keyword : ['エースバーン']
+ 2021-01-08 21:22:46,976 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ランドロス', <br/>, <span class="small">(れいじゅうフォルム)</span>], keyword : ['ランドロス', '(れいじゅうフォルム)']
+ 2021-01-08 21:22:46,976 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ドサイドン'], keyword : ['ドサイドン']
+ 2021-01-08 21:22:46,977 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['スイクン'], keyword : ['スイクン']
+ 2021-01-08 21:22:46,977 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ウツロイド'], keyword : ['ウツロイド']
+ 2021-01-08 21:22:46,977 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ナットレイ'], keyword : ['ナットレイ']
+ 2021-01-08 21:22:46,977 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['カバルドン'], keyword : ['カバルドン']
+ 2021-01-08 21:22:46,978 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ミロカロス'], keyword : ['ミロカロス']
+ 2021-01-08 21:22:46,978 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - Not Match... ,  search pokemon : ['ギルガルド']
+ 2021-01-08 21:22:46,978 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['テッカグヤ'], keyword : ['テッカグヤ']
+ 2021-01-08 21:22:46,979 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['カミツルギ'], keyword : ['カミツルギ']
+ 2021-01-08 21:22:46,979 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ガブリアス'], keyword : ['ガブリアス']
+ 2021-01-08 21:22:46,980 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - Not Match... ,  search pokemon : ['ウーラオス']
+ 2021-01-08 21:33:56,395 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - start function
+ 2021-01-08 21:33:56,434 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/battle_save.py - 'pokemon_battle_record.xlsx' sheet is ['input_template', 'S13', 'S13_statistics', 'S14', 'S14_statistics']
+ 2021-01-08 21:33:56,536 - DEBUG - src/main.py - 'pokemon_battle_record.xlsx' sheet is ['input_template', 'S13', 'S13_statistics', 'S14', 'S14_statistics']
+ 2021-01-08 21:33:56,537 - DEBUG - src/main.py - the kind of pokemons : 49
+ 2021-01-08 21:33:56,568 - DEBUG - /Users/nakamurakoyo/opt/anaconda3/lib/python3.8/site-packages/urllib3/connectionpool.py - Starting new HTTPS connection (1): yakkun.com:443
+ 2021-01-08 21:33:56,673 - DEBUG - /Users/nakamurakoyo/opt/anaconda3/lib/python3.8/site-packages/urllib3/connectionpool.py - https://yakkun.com:443 "GET /swsh/stats_list.htm HTTP/1.1" 200 None
+ 2021-01-08 21:33:56,975 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - num pokemon : 732
+ 2021-01-08 21:33:56,976 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['エースバーン'], keyword : ['エースバーン']
+ 2021-01-08 21:33:56,976 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ウツロイド'], keyword : ['ウツロイド']
+ 2021-01-08 21:33:56,976 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ボルトロス', <br/>, <span class="small">(れいじゅうフォルム)</span>], keyword : ['ボルトロス', '(れいじゅうフォルム)']
+ 2021-01-08 21:33:56,977 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ランドロス', <br/>, <span class="small">(れいじゅうフォルム)</span>], keyword : ['ランドロス', '(れいじゅうフォルム)']
+ 2021-01-08 21:33:56,977 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ドサイドン'], keyword : ['ドサイドン']
+ 2021-01-08 21:33:56,977 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['スイクン'], keyword : ['スイクン']
+ 2021-01-08 21:33:56,977 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ナットレイ'], keyword : ['ナットレイ']
+ 2021-01-08 21:33:56,977 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['カバルドン'], keyword : ['カバルドン']
+ 2021-01-08 21:33:56,978 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ミロカロス'], keyword : ['ミロカロス']
+ 2021-01-08 21:33:56,978 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - Not Match... ,  search pokemon : ['ギルガルド']
+ 2021-01-08 21:33:56,978 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['テッカグヤ'], keyword : ['テッカグヤ']
+ 2021-01-08 21:33:56,978 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['カイリュー'], keyword : ['カイリュー']
+ 2021-01-08 21:33:56,979 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['カミツルギ'], keyword : ['カミツルギ']
+ 2021-01-08 21:33:56,979 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ガブリアス'], keyword : ['ガブリアス']
+ 2021-01-08 21:33:56,980 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - Not Match... ,  search pokemon : ['ウーラオス']
+ 2021-01-08 21:45:37,167 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - start function
+ 2021-01-08 21:45:37,214 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/battle_save.py - 'pokemon_battle_record.xlsx' sheet is ['input_template', 'S13', 'S13_statistics', 'S14', 'S14_statistics']
+ 2021-01-08 21:45:37,297 - DEBUG - src/main.py - 'pokemon_battle_record.xlsx' sheet is ['input_template', 'S13', 'S13_statistics', 'S14', 'S14_statistics']
+ 2021-01-08 21:45:37,298 - DEBUG - src/main.py - the kind of pokemons : 53
+ 2021-01-08 21:45:37,331 - DEBUG - /Users/nakamurakoyo/opt/anaconda3/lib/python3.8/site-packages/urllib3/connectionpool.py - Starting new HTTPS connection (1): yakkun.com:443
+ 2021-01-08 21:45:37,434 - DEBUG - /Users/nakamurakoyo/opt/anaconda3/lib/python3.8/site-packages/urllib3/connectionpool.py - https://yakkun.com:443 "GET /swsh/stats_list.htm HTTP/1.1" 200 None
+ 2021-01-08 21:45:37,731 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - num pokemon : 732
+ 2021-01-08 21:45:37,732 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['エースバーン'], keyword : ['エースバーン']
+ 2021-01-08 21:45:37,732 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ウツロイド'], keyword : ['ウツロイド']
+ 2021-01-08 21:45:37,732 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['カバルドン'], keyword : ['カバルドン']
+ 2021-01-08 21:45:37,733 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ガブリアス'], keyword : ['ガブリアス']
+ 2021-01-08 21:45:37,733 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ボルトロス', <br/>, <span class="small">(れいじゅうフォルム)</span>], keyword : ['ボルトロス', '(れいじゅうフォルム)']
+ 2021-01-08 21:45:37,733 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ランドロス', <br/>, <span class="small">(れいじゅうフォルム)</span>], keyword : ['ランドロス', '(れいじゅうフォルム)']
+ 2021-01-08 21:45:37,733 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ドサイドン'], keyword : ['ドサイドン']
+ 2021-01-08 21:45:37,734 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['スイクン'], keyword : ['スイクン']
+ 2021-01-08 21:45:37,734 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ナットレイ'], keyword : ['ナットレイ']
+ 2021-01-08 21:45:37,734 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ミロカロス'], keyword : ['ミロカロス']
+ 2021-01-08 21:45:37,734 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - Not Match... ,  search pokemon : ['ギルガルド']
+ 2021-01-08 21:45:37,735 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['テッカグヤ'], keyword : ['テッカグヤ']
+ 2021-01-08 21:45:37,735 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['カイリュー'], keyword : ['カイリュー']
+ 2021-01-08 21:45:37,735 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['カミツルギ'], keyword : ['カミツルギ']
+ 2021-01-08 21:45:37,735 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - Not Match... ,  search pokemon : ['ウーラオス']
+ 2021-01-08 21:56:55,121 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - start function
+ 2021-01-08 21:56:55,167 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/battle_save.py - 'pokemon_battle_record.xlsx' sheet is ['input_template', 'S13', 'S13_statistics', 'S14', 'S14_statistics']
+ 2021-01-08 21:56:55,252 - DEBUG - src/main.py - 'pokemon_battle_record.xlsx' sheet is ['input_template', 'S13', 'S13_statistics', 'S14', 'S14_statistics']
+ 2021-01-08 21:56:55,253 - DEBUG - src/main.py - the kind of pokemons : 55
+ 2021-01-08 21:56:56,276 - DEBUG - /Users/nakamurakoyo/opt/anaconda3/lib/python3.8/site-packages/urllib3/connectionpool.py - Starting new HTTPS connection (1): yakkun.com:443
+ 2021-01-08 21:56:56,370 - DEBUG - /Users/nakamurakoyo/opt/anaconda3/lib/python3.8/site-packages/urllib3/connectionpool.py - https://yakkun.com:443 "GET /swsh/stats_list.htm HTTP/1.1" 200 None
+ 2021-01-08 21:56:56,657 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - num pokemon : 732
+ 2021-01-08 21:56:56,658 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['エースバーン'], keyword : ['エースバーン']
+ 2021-01-08 21:56:56,658 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ウツロイド'], keyword : ['ウツロイド']
+ 2021-01-08 21:56:56,658 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['カバルドン'], keyword : ['カバルドン']
+ 2021-01-08 21:56:56,659 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['カミツルギ'], keyword : ['カミツルギ']
+ 2021-01-08 21:56:56,659 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ガブリアス'], keyword : ['ガブリアス']
+ 2021-01-08 21:56:56,659 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - Not Match... ,  search pokemon : ['ウーラオス']
+ 2021-01-08 21:56:56,660 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ボルトロス', <br/>, <span class="small">(れいじゅうフォルム)</span>], keyword : ['ボルトロス', '(れいじゅうフォルム)']
+ 2021-01-08 21:56:56,660 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ランドロス', <br/>, <span class="small">(れいじゅうフォルム)</span>], keyword : ['ランドロス', '(れいじゅうフォルム)']
+ 2021-01-08 21:56:56,660 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ドサイドン'], keyword : ['ドサイドン']
+ 2021-01-08 21:56:56,660 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['スイクン'], keyword : ['スイクン']
+ 2021-01-08 21:56:56,660 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ナットレイ'], keyword : ['ナットレイ']
+ 2021-01-08 21:56:56,661 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ドラパルト'], keyword : ['ドラパルト']
+ 2021-01-08 21:56:56,661 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ミロカロス'], keyword : ['ミロカロス']
+ 2021-01-08 21:56:56,661 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - Not Match... ,  search pokemon : ['ギルガルド']
+ 2021-01-08 21:56:56,662 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['テッカグヤ'], keyword : ['テッカグヤ']
+ 2021-01-08 21:56:56,662 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['カイリュー'], keyword : ['カイリュー']
+ 2021-01-08 22:10:25,395 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - start function
+ 2021-01-08 22:10:25,452 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/battle_save.py - 'pokemon_battle_record.xlsx' sheet is ['input_template', 'S13', 'S13_statistics', 'S14', 'S14_statistics']
+ 2021-01-08 22:10:25,550 - DEBUG - src/main.py - 'pokemon_battle_record.xlsx' sheet is ['input_template', 'S13', 'S13_statistics', 'S14', 'S14_statistics']
+ 2021-01-08 22:10:25,551 - DEBUG - src/main.py - the kind of pokemons : 56
+ 2021-01-08 22:10:25,591 - DEBUG - /Users/nakamurakoyo/opt/anaconda3/lib/python3.8/site-packages/urllib3/connectionpool.py - Starting new HTTPS connection (1): yakkun.com:443
+ 2021-01-08 22:10:25,700 - DEBUG - /Users/nakamurakoyo/opt/anaconda3/lib/python3.8/site-packages/urllib3/connectionpool.py - https://yakkun.com:443 "GET /swsh/stats_list.htm HTTP/1.1" 200 None
+ 2021-01-08 22:10:25,968 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - num pokemon : 732
+ 2021-01-08 22:10:25,969 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['エースバーン'], keyword : ['エースバーン']
+ 2021-01-08 22:10:25,970 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - Not Match... ,  search pokemon : ['ウーラオス']
+ 2021-01-08 22:10:25,970 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ウツロイド'], keyword : ['ウツロイド']
+ 2021-01-08 22:10:25,971 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['カバルドン'], keyword : ['カバルドン']
+ 2021-01-08 22:10:25,971 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['カイリュー'], keyword : ['カイリュー']
+ 2021-01-08 22:10:25,971 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['カミツルギ'], keyword : ['カミツルギ']
+ 2021-01-08 22:10:25,971 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ガブリアス'], keyword : ['ガブリアス']
+ 2021-01-08 22:10:25,972 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ボルトロス', <br/>, <span class="small">(れいじゅうフォルム)</span>], keyword : ['ボルトロス', '(れいじゅうフォルム)']
+ 2021-01-08 22:10:25,972 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ランドロス', <br/>, <span class="small">(れいじゅうフォルム)</span>], keyword : ['ランドロス', '(れいじゅうフォルム)']
+ 2021-01-08 22:10:25,973 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ドサイドン'], keyword : ['ドサイドン']
+ 2021-01-08 22:10:25,973 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['スイクン'], keyword : ['スイクン']
+ 2021-01-08 22:10:25,973 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ウオノラゴン'], keyword : ['ウオノラゴン']
+ 2021-01-08 22:10:25,974 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ナットレイ'], keyword : ['ナットレイ']
+ 2021-01-08 22:10:25,974 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ドラパルト'], keyword : ['ドラパルト']
+ 2021-01-08 22:10:25,974 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ラプラス'], keyword : ['ラプラス']
+ 2021-01-08 22:10:25,974 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['パッチラゴン'], keyword : ['パッチラゴン']
+ 2021-01-08 22:10:25,975 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ミロカロス'], keyword : ['ミロカロス']
+ 2021-01-08 22:10:25,975 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - Not Match... ,  search pokemon : ['ギルガルド']
+ 2021-01-08 22:10:25,975 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['テッカグヤ'], keyword : ['テッカグヤ']
+ 2021-01-09 20:52:30,392 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - start function
+ 2021-01-09 20:52:30,443 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/battle_save.py - 'pokemon_battle_record.xlsx' sheet is ['input_template', 'S13', 'S13_statistics', 'S14', 'S14_statistics']
+ 2021-01-09 20:52:30,547 - DEBUG - src/main.py - 'pokemon_battle_record.xlsx' sheet is ['input_template', 'S13', 'S13_statistics', 'S14', 'S14_statistics']
+ 2021-01-09 20:52:30,548 - DEBUG - src/main.py - the kind of pokemons : 58
+ 2021-01-09 20:52:30,579 - DEBUG - /Users/nakamurakoyo/opt/anaconda3/lib/python3.8/site-packages/urllib3/connectionpool.py - Starting new HTTPS connection (1): yakkun.com:443
+ 2021-01-09 20:52:30,678 - DEBUG - /Users/nakamurakoyo/opt/anaconda3/lib/python3.8/site-packages/urllib3/connectionpool.py - https://yakkun.com:443 "GET /swsh/stats_list.htm HTTP/1.1" 200 None
+ 2021-01-09 20:52:30,944 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - num pokemon : 732
+ 2021-01-09 20:52:30,945 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['エースバーン'], keyword : ['エースバーン']
+ 2021-01-09 20:52:30,945 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - Not Match... ,  search pokemon : ['ウーラオス']
+ 2021-01-09 20:52:30,946 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ウツロイド'], keyword : ['ウツロイド']
+ 2021-01-09 20:52:30,946 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ウオノラゴン'], keyword : ['ウオノラゴン']
+ 2021-01-09 20:52:30,946 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['カバルドン'], keyword : ['カバルドン']
+ 2021-01-09 20:52:30,946 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['カイリュー'], keyword : ['カイリュー']
+ 2021-01-09 20:52:30,946 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['カミツルギ'], keyword : ['カミツルギ']
+ 2021-01-09 20:52:30,947 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ガブリアス'], keyword : ['ガブリアス']
+ 2021-01-09 20:52:30,947 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ボルトロス', <br/>, <span class="small">(れいじゅうフォルム)</span>], keyword : ['ボルトロス', '(れいじゅうフォルム)']
+ 2021-01-09 20:52:30,947 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ランドロス', <br/>, <span class="small">(れいじゅうフォルム)</span>], keyword : ['ランドロス', '(れいじゅうフォルム)']
+ 2021-01-09 20:52:30,947 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ドサイドン'], keyword : ['ドサイドン']
+ 2021-01-09 20:52:30,948 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['スイクン'], keyword : ['スイクン']
+ 2021-01-09 20:52:30,948 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['サンダー'], keyword : ['サンダー']
+ 2021-01-09 20:52:30,948 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ナットレイ'], keyword : ['ナットレイ']
+ 2021-01-09 20:52:30,948 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ドラパルト'], keyword : ['ドラパルト']
+ 2021-01-09 20:52:30,948 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ラプラス'], keyword : ['ラプラス']
+ 2021-01-09 20:52:30,949 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['パッチラゴン'], keyword : ['パッチラゴン']
+ 2021-01-09 20:52:30,949 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ミロカロス'], keyword : ['ミロカロス']
+ 2021-01-09 20:52:30,949 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - Not Match... ,  search pokemon : ['ギルガルド']
+ 2021-01-09 20:52:30,949 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['テッカグヤ'], keyword : ['テッカグヤ']
+ 2021-01-09 20:52:30,950 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - Not Match... ,  search pokemon : ['カプレヒレ']
+ 2021-01-09 20:52:30,950 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ポリゴン2'], keyword : ['ポリゴン2']
+ 2021-01-09 21:06:41,673 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - start function
+ 2021-01-09 21:06:41,724 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/battle_save.py - 'pokemon_battle_record.xlsx' sheet is ['input_template', 'S13', 'S13_statistics', 'S14', 'S14_statistics']
+ 2021-01-09 21:06:41,838 - DEBUG - src/main.py - 'pokemon_battle_record.xlsx' sheet is ['input_template', 'S13', 'S13_statistics', 'S14', 'S14_statistics']
+ 2021-01-09 21:06:41,840 - DEBUG - src/main.py - the kind of pokemons : 58
+ 2021-01-09 21:06:41,867 - DEBUG - /Users/nakamurakoyo/opt/anaconda3/lib/python3.8/site-packages/urllib3/connectionpool.py - Starting new HTTPS connection (1): yakkun.com:443
+ 2021-01-09 21:06:42,014 - DEBUG - /Users/nakamurakoyo/opt/anaconda3/lib/python3.8/site-packages/urllib3/connectionpool.py - https://yakkun.com:443 "GET /swsh/stats_list.htm HTTP/1.1" 200 None
+ 2021-01-09 21:06:42,294 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - num pokemon : 732
+ 2021-01-09 21:06:42,295 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - Not Match... ,  search pokemon : ['ウーラオス']
+ 2021-01-09 21:06:42,295 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['エースバーン'], keyword : ['エースバーン']
+ 2021-01-09 21:06:42,295 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['カイリュー'], keyword : ['カイリュー']
+ 2021-01-09 21:06:42,296 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ランドロス', <br/>, <span class="small">(れいじゅうフォルム)</span>], keyword : ['ランドロス', '(れいじゅうフォルム)']
+ 2021-01-09 21:06:42,296 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ウツロイド'], keyword : ['ウツロイド']
+ 2021-01-09 21:06:42,296 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ウオノラゴン'], keyword : ['ウオノラゴン']
+ 2021-01-09 21:06:42,296 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['サンダー'], keyword : ['サンダー']
+ 2021-01-09 21:06:42,297 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ナットレイ'], keyword : ['ナットレイ']
+ 2021-01-09 21:06:42,297 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['カバルドン'], keyword : ['カバルドン']
+ 2021-01-09 21:06:42,297 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['カミツルギ'], keyword : ['カミツルギ']
+ 2021-01-09 21:06:42,297 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ガブリアス'], keyword : ['ガブリアス']
+ 2021-01-09 21:06:42,298 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ボルトロス', <br/>, <span class="small">(れいじゅうフォルム)</span>], keyword : ['ボルトロス', '(れいじゅうフォルム)']
+ 2021-01-09 21:06:42,298 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ドサイドン'], keyword : ['ドサイドン']
+ 2021-01-09 21:06:42,298 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['スイクン'], keyword : ['スイクン']
+ 2021-01-09 21:06:42,298 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ドラパルト'], keyword : ['ドラパルト']
+ 2021-01-09 21:06:42,298 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ラプラス'], keyword : ['ラプラス']
+ 2021-01-09 21:06:42,299 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['パッチラゴン'], keyword : ['パッチラゴン']
+ 2021-01-09 21:06:42,299 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ミロカロス'], keyword : ['ミロカロス']
+ 2021-01-09 21:06:42,299 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - Not Match... ,  search pokemon : ['ギルガルド']
+ 2021-01-09 21:06:42,300 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['テッカグヤ'], keyword : ['テッカグヤ']
+ 2021-01-09 21:06:42,300 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ミミッキュ'], keyword : ['ミミッキュ']
+ 2021-01-09 21:06:42,300 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - Not Match... ,  search pokemon : ['カプレヒレ']
+ 2021-01-09 21:06:42,300 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ポリゴン2'], keyword : ['ポリゴン2']
+ 2021-01-09 21:28:04,933 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - start function
+ 2021-01-09 21:28:04,986 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/battle_save.py - 'pokemon_battle_record.xlsx' sheet is ['input_template', 'S13', 'S13_statistics', 'S14', 'S14_statistics']
+ 2021-01-09 21:28:05,101 - DEBUG - src/main.py - 'pokemon_battle_record.xlsx' sheet is ['input_template', 'S13', 'S13_statistics', 'S14', 'S14_statistics']
+ 2021-01-09 21:28:05,102 - DEBUG - src/main.py - the kind of pokemons : 62
+ 2021-01-09 21:28:05,133 - DEBUG - /Users/nakamurakoyo/opt/anaconda3/lib/python3.8/site-packages/urllib3/connectionpool.py - Starting new HTTPS connection (1): yakkun.com:443
+ 2021-01-09 21:28:05,219 - DEBUG - /Users/nakamurakoyo/opt/anaconda3/lib/python3.8/site-packages/urllib3/connectionpool.py - https://yakkun.com:443 "GET /swsh/stats_list.htm HTTP/1.1" 200 None
+ 2021-01-09 21:28:05,512 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - num pokemon : 732
+ 2021-01-09 21:28:05,513 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - Not Match... ,  search pokemon : ['ウーラオス']
+ 2021-01-09 21:28:05,513 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['エースバーン'], keyword : ['エースバーン']
+ 2021-01-09 21:28:05,513 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['カイリュー'], keyword : ['カイリュー']
+ 2021-01-09 21:28:05,514 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ランドロス', <br/>, <span class="small">(れいじゅうフォルム)</span>], keyword : ['ランドロス', '(れいじゅうフォルム)']
+ 2021-01-09 21:28:05,514 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ウツロイド'], keyword : ['ウツロイド']
+ 2021-01-09 21:28:05,514 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ウオノラゴン'], keyword : ['ウオノラゴン']
+ 2021-01-09 21:28:05,514 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['サンダー'], keyword : ['サンダー']
+ 2021-01-09 21:28:05,515 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ナットレイ'], keyword : ['ナットレイ']
+ 2021-01-09 21:28:05,515 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['カバルドン'], keyword : ['カバルドン']
+ 2021-01-09 21:28:05,515 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['カミツルギ'], keyword : ['カミツルギ']
+ 2021-01-09 21:28:05,515 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ガブリアス'], keyword : ['ガブリアス']
+ 2021-01-09 21:28:05,516 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ボルトロス', <br/>, <span class="small">(れいじゅうフォルム)</span>], keyword : ['ボルトロス', '(れいじゅうフォルム)']
+ 2021-01-09 21:28:05,516 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ドサイドン'], keyword : ['ドサイドン']
+ 2021-01-09 21:28:05,516 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['スイクン'], keyword : ['スイクン']
+ 2021-01-09 21:28:05,516 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ドラパルト'], keyword : ['ドラパルト']
+ 2021-01-09 21:28:05,516 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ラプラス'], keyword : ['ラプラス']
+ 2021-01-09 21:28:05,517 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['パッチラゴン'], keyword : ['パッチラゴン']
+ 2021-01-09 21:28:05,517 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ドヒドイデ'], keyword : ['ドヒドイデ']
+ 2021-01-09 21:28:05,517 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ミロカロス'], keyword : ['ミロカロス']
+ 2021-01-09 21:28:05,517 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - Not Match... ,  search pokemon : ['ギルガルド']
+ 2021-01-09 21:28:05,518 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['テッカグヤ'], keyword : ['テッカグヤ']
+ 2021-01-09 21:28:05,518 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['バンギラス'], keyword : ['バンギラス']
+ 2021-01-09 21:28:05,518 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ミミッキュ'], keyword : ['ミミッキュ']
+ 2021-01-09 21:28:05,519 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - Not Match... ,  search pokemon : ['カプレヒレ']
+ 2021-01-09 21:28:05,519 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ポリゴン2'], keyword : ['ポリゴン2']
+ 2021-01-09 21:29:39,621 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - start function
+ 2021-01-09 21:29:39,676 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/battle_save.py - 'pokemon_battle_record.xlsx' sheet is ['input_template', 'S13', 'S13_statistics', 'S14', 'S14_statistics']
+ 2021-01-09 21:29:39,716 - DEBUG - src/main.py - 'pokemon_battle_record.xlsx' sheet is ['input_template', 'S13', 'S13_statistics', 'S14', 'S14_statistics']
+ 2021-01-09 21:30:34,755 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - start function
+ 2021-01-09 21:30:34,822 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/battle_save.py - 'pokemon_battle_record.xlsx' sheet is ['input_template', 'S13', 'S13_statistics', 'S14', 'S14_statistics']
+ 2021-01-09 21:30:34,865 - DEBUG - src/main.py - 'pokemon_battle_record.xlsx' sheet is ['input_template', 'S13', 'S13_statistics', 'S14', 'S14_statistics']
+ 2021-01-09 21:30:34,866 - DEBUG - src/main.py - the kind of pokemons : 62
+ 2021-01-09 21:30:34,896 - DEBUG - /Users/nakamurakoyo/opt/anaconda3/lib/python3.8/site-packages/urllib3/connectionpool.py - Starting new HTTPS connection (1): yakkun.com:443
+ 2021-01-09 21:30:34,990 - DEBUG - /Users/nakamurakoyo/opt/anaconda3/lib/python3.8/site-packages/urllib3/connectionpool.py - https://yakkun.com:443 "GET /swsh/stats_list.htm HTTP/1.1" 200 None
+ 2021-01-09 21:30:35,234 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - num pokemon : 732
+ 2021-01-09 21:30:35,235 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - Not Match... ,  search pokemon : ['ウーラオス']
+ 2021-01-09 21:30:35,236 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['エースバーン'], keyword : ['エースバーン']
+ 2021-01-09 21:30:35,236 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['カイリュー'], keyword : ['カイリュー']
+ 2021-01-09 21:30:35,236 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ランドロス', <br/>, <span class="small">(れいじゅうフォルム)</span>], keyword : ['ランドロス', '(れいじゅうフォルム)']
+ 2021-01-09 21:30:35,237 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ウツロイド'], keyword : ['ウツロイド']
+ 2021-01-09 21:30:35,237 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ウオノラゴン'], keyword : ['ウオノラゴン']
+ 2021-01-09 21:30:35,238 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['サンダー'], keyword : ['サンダー']
+ 2021-01-09 21:30:35,238 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ナットレイ'], keyword : ['ナットレイ']
+ 2021-01-09 21:30:35,238 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['カバルドン'], keyword : ['カバルドン']
+ 2021-01-09 21:30:35,238 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['カミツルギ'], keyword : ['カミツルギ']
+ 2021-01-09 21:30:35,239 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ガブリアス'], keyword : ['ガブリアス']
+ 2021-01-09 21:30:35,239 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ボルトロス', <br/>, <span class="small">(れいじゅうフォルム)</span>], keyword : ['ボルトロス', '(れいじゅうフォルム)']
+ 2021-01-09 21:30:35,239 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ドサイドン'], keyword : ['ドサイドン']
+ 2021-01-09 21:30:35,239 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['スイクン'], keyword : ['スイクン']
+ 2021-01-09 21:30:35,240 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ドラパルト'], keyword : ['ドラパルト']
+ 2021-01-09 21:30:35,240 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ラプラス'], keyword : ['ラプラス']
+ 2021-01-09 21:30:35,240 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['パッチラゴン'], keyword : ['パッチラゴン']
+ 2021-01-09 21:30:35,241 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ドヒドイデ'], keyword : ['ドヒドイデ']
+ 2021-01-09 21:30:35,241 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ミロカロス'], keyword : ['ミロカロス']
+ 2021-01-09 21:30:35,241 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - Not Match... ,  search pokemon : ['ギルガルド']
+ 2021-01-09 21:30:35,242 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['テッカグヤ'], keyword : ['テッカグヤ']
+ 2021-01-09 21:30:35,242 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['バンギラス'], keyword : ['バンギラス']
+ 2021-01-09 21:30:35,242 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ミミッキュ'], keyword : ['ミミッキュ']
+ 2021-01-09 21:30:35,243 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['カプ・レヒレ'], keyword : ['カプ・レヒレ']
+ 2021-01-09 21:30:35,243 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ポリゴン2'], keyword : ['ポリゴン2']
+ 2021-01-13 22:40:25,379 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - start function
+ 2021-01-13 22:40:25,433 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/battle_save.py - 'pokemon_battle_record.xlsx' sheet is ['input_template', 'S13', 'S13_statistics', 'S14', 'S14_statistics']
+ 2021-01-13 22:40:25,685 - DEBUG - src/main.py - 'pokemon_battle_record.xlsx' sheet is ['input_template', 'S13', 'S13_statistics', 'S14', 'S14_statistics']
+ 2021-01-13 22:40:25,687 - DEBUG - src/main.py - the kind of pokemons : 62
+ 2021-01-13 22:40:25,718 - DEBUG - /Users/nakamurakoyo/opt/anaconda3/lib/python3.8/site-packages/urllib3/connectionpool.py - Starting new HTTPS connection (1): yakkun.com:443
+ 2021-01-13 22:40:25,865 - DEBUG - /Users/nakamurakoyo/opt/anaconda3/lib/python3.8/site-packages/urllib3/connectionpool.py - https://yakkun.com:443 "GET /swsh/stats_list.htm HTTP/1.1" 200 None
+ 2021-01-13 22:40:26,155 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - num pokemon : 732
+ 2021-01-13 22:40:26,156 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['エースバーン'], keyword : ['エースバーン']
+ 2021-01-13 22:40:26,156 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - Not Match... ,  search pokemon : ['ウーラオス']
+ 2021-01-13 22:40:26,157 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ランドロス', <br/>, <span class="small">(れいじゅうフォルム)</span>], keyword : ['ランドロス', '(れいじゅうフォルム)']
+ 2021-01-13 22:40:26,157 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['サンダー'], keyword : ['サンダー']
+ 2021-01-13 22:40:26,157 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ナットレイ'], keyword : ['ナットレイ']
+ 2021-01-13 22:40:26,157 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['カイリュー'], keyword : ['カイリュー']
+ 2021-01-13 22:40:26,158 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ウツロイド'], keyword : ['ウツロイド']
+ 2021-01-13 22:40:26,158 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ウオノラゴン'], keyword : ['ウオノラゴン']
+ 2021-01-13 22:40:26,158 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['カバルドン'], keyword : ['カバルドン']
+ 2021-01-13 22:40:26,158 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['カミツルギ'], keyword : ['カミツルギ']
+ 2021-01-13 22:40:26,159 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ガブリアス'], keyword : ['ガブリアス']
+ 2021-01-13 22:40:26,159 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ミミッキュ'], keyword : ['ミミッキュ']
+ 2021-01-13 22:40:26,159 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['カプ・レヒレ'], keyword : ['カプ・レヒレ']
+ 2021-01-13 22:40:26,159 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ボルトロス', <br/>, <span class="small">(れいじゅうフォルム)</span>], keyword : ['ボルトロス', '(れいじゅうフォルム)']
+ 2021-01-13 22:40:26,160 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ドサイドン'], keyword : ['ドサイドン']
+ 2021-01-13 22:40:26,160 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['スイクン'], keyword : ['スイクン']
+ 2021-01-13 22:40:26,160 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ドラパルト'], keyword : ['ドラパルト']
+ 2021-01-13 22:40:26,160 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ラプラス'], keyword : ['ラプラス']
+ 2021-01-13 22:40:26,161 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['パッチラゴン'], keyword : ['パッチラゴン']
+ 2021-01-13 22:40:26,161 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ドヒドイデ'], keyword : ['ドヒドイデ']
+ 2021-01-13 22:40:26,161 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ミロカロス'], keyword : ['ミロカロス']
+ 2021-01-13 22:40:26,161 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - Not Match... ,  search pokemon : ['ギルガルド']
+ 2021-01-13 22:40:26,162 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['テッカグヤ'], keyword : ['テッカグヤ']
+ 2021-01-13 22:40:26,162 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['バンギラス'], keyword : ['バンギラス']
+ 2021-01-13 22:40:26,162 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ポリゴン2'], keyword : ['ポリゴン2']
+ 2021-01-13 22:53:46,572 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - start function
+ 2021-01-13 22:53:46,620 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/battle_save.py - 'pokemon_battle_record.xlsx' sheet is ['input_template', 'S13', 'S13_statistics', 'S14', 'S14_statistics']
+ 2021-01-13 22:53:46,719 - DEBUG - src/main.py - 'pokemon_battle_record.xlsx' sheet is ['input_template', 'S13', 'S13_statistics', 'S14', 'S14_statistics']
+ 2021-01-13 22:53:46,720 - DEBUG - src/main.py - the kind of pokemons : 65
+ 2021-01-13 22:53:46,747 - DEBUG - /Users/nakamurakoyo/opt/anaconda3/lib/python3.8/site-packages/urllib3/connectionpool.py - Starting new HTTPS connection (1): yakkun.com:443
+ 2021-01-13 22:53:46,905 - DEBUG - /Users/nakamurakoyo/opt/anaconda3/lib/python3.8/site-packages/urllib3/connectionpool.py - https://yakkun.com:443 "GET /swsh/stats_list.htm HTTP/1.1" 200 None
+ 2021-01-13 22:53:47,190 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - num pokemon : 732
+ 2021-01-13 22:53:47,190 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['エースバーン'], keyword : ['エースバーン']
+ 2021-01-13 22:53:47,191 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['カイリュー'], keyword : ['カイリュー']
+ 2021-01-13 22:53:47,191 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - Not Match... ,  search pokemon : ['ウーラオス']
+ 2021-01-13 22:53:47,191 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ランドロス', <br/>, <span class="small">(れいじゅうフォルム)</span>], keyword : ['ランドロス', '(れいじゅうフォルム)']
+ 2021-01-13 22:53:47,192 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['サンダー'], keyword : ['サンダー']
+ 2021-01-13 22:53:47,192 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ナットレイ'], keyword : ['ナットレイ']
+ 2021-01-13 22:53:47,192 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ウツロイド'], keyword : ['ウツロイド']
+ 2021-01-13 22:53:47,193 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ウオノラゴン'], keyword : ['ウオノラゴン']
+ 2021-01-13 22:53:47,193 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['カバルドン'], keyword : ['カバルドン']
+ 2021-01-13 22:53:47,193 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['カミツルギ'], keyword : ['カミツルギ']
+ 2021-01-13 22:53:47,193 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ガブリアス'], keyword : ['ガブリアス']
+ 2021-01-13 22:53:47,194 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ミミッキュ'], keyword : ['ミミッキュ']
+ 2021-01-13 22:53:47,194 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['カプ・レヒレ'], keyword : ['カプ・レヒレ']
+ 2021-01-13 22:53:47,194 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ボルトロス', <br/>, <span class="small">(れいじゅうフォルム)</span>], keyword : ['ボルトロス', '(れいじゅうフォルム)']
+ 2021-01-13 22:53:47,194 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ドサイドン'], keyword : ['ドサイドン']
+ 2021-01-13 22:53:47,194 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['スイクン'], keyword : ['スイクン']
+ 2021-01-13 22:53:47,195 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ドラパルト'], keyword : ['ドラパルト']
+ 2021-01-13 22:53:47,195 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ラプラス'], keyword : ['ラプラス']
+ 2021-01-13 22:53:47,195 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['パッチラゴン'], keyword : ['パッチラゴン']
+ 2021-01-13 22:53:47,195 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ドヒドイデ'], keyword : ['ドヒドイデ']
+ 2021-01-13 22:53:47,196 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ゴリランダー'], keyword : ['ゴリランダー']
+ 2021-01-13 22:53:47,196 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ミロカロス'], keyword : ['ミロカロス']
+ 2021-01-13 22:53:47,196 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - Not Match... ,  search pokemon : ['ギルガルド']
+ 2021-01-13 22:53:47,197 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['テッカグヤ'], keyword : ['テッカグヤ']
+ 2021-01-13 22:53:47,197 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['バンギラス'], keyword : ['バンギラス']
+ 2021-01-13 22:53:47,197 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ヒードラン'], keyword : ['ヒードラン']
+ 2021-01-13 22:53:47,197 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ポリゴン2'], keyword : ['ポリゴン2']
+ 2021-01-13 23:04:50,407 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - start function
+ 2021-01-13 23:04:50,461 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/battle_save.py - 'pokemon_battle_record.xlsx' sheet is ['input_template', 'S13', 'S13_statistics', 'S14', 'S14_statistics']
+ 2021-01-13 23:04:50,578 - DEBUG - src/main.py - 'pokemon_battle_record.xlsx' sheet is ['input_template', 'S13', 'S13_statistics', 'S14', 'S14_statistics']
+ 2021-01-13 23:04:50,580 - DEBUG - src/main.py - the kind of pokemons : 67
+ 2021-01-13 23:04:50,609 - DEBUG - /Users/nakamurakoyo/opt/anaconda3/lib/python3.8/site-packages/urllib3/connectionpool.py - Starting new HTTPS connection (1): yakkun.com:443
+ 2021-01-13 23:04:50,710 - DEBUG - /Users/nakamurakoyo/opt/anaconda3/lib/python3.8/site-packages/urllib3/connectionpool.py - https://yakkun.com:443 "GET /swsh/stats_list.htm HTTP/1.1" 200 None
+ 2021-01-13 23:04:51,003 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - num pokemon : 732
+ 2021-01-13 23:04:51,004 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['エースバーン'], keyword : ['エースバーン']
+ 2021-01-13 23:04:51,004 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['カイリュー'], keyword : ['カイリュー']
+ 2021-01-13 23:04:51,004 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - Not Match... ,  search pokemon : ['ウーラオス']
+ 2021-01-13 23:04:51,005 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ランドロス', <br/>, <span class="small">(れいじゅうフォルム)</span>], keyword : ['ランドロス', '(れいじゅうフォルム)']
+ 2021-01-13 23:04:51,005 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ウツロイド'], keyword : ['ウツロイド']
+ 2021-01-13 23:04:51,005 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['サンダー'], keyword : ['サンダー']
+ 2021-01-13 23:04:51,005 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ナットレイ'], keyword : ['ナットレイ']
+ 2021-01-13 23:04:51,006 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ミミッキュ'], keyword : ['ミミッキュ']
+ 2021-01-13 23:04:51,006 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ボルトロス', <br/>, <span class="small">(れいじゅうフォルム)</span>], keyword : ['ボルトロス', '(れいじゅうフォルム)']
+ 2021-01-13 23:04:51,006 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ウオノラゴン'], keyword : ['ウオノラゴン']
+ 2021-01-13 23:04:51,007 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['カバルドン'], keyword : ['カバルドン']
+ 2021-01-13 23:04:51,007 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['カミツルギ'], keyword : ['カミツルギ']
+ 2021-01-13 23:04:51,007 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ガブリアス'], keyword : ['ガブリアス']
+ 2021-01-13 23:04:51,007 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['カプ・レヒレ'], keyword : ['カプ・レヒレ']
+ 2021-01-13 23:04:51,008 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ドサイドン'], keyword : ['ドサイドン']
+ 2021-01-13 23:04:51,008 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['スイクン'], keyword : ['スイクン']
+ 2021-01-13 23:04:51,008 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ドラパルト'], keyword : ['ドラパルト']
+ 2021-01-13 23:04:51,009 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ラプラス'], keyword : ['ラプラス']
+ 2021-01-13 23:04:51,009 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['パッチラゴン'], keyword : ['パッチラゴン']
+ 2021-01-13 23:04:51,009 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ドヒドイデ'], keyword : ['ドヒドイデ']
+ 2021-01-13 23:04:51,009 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ゴリランダー'], keyword : ['ゴリランダー']
+ 2021-01-13 23:04:51,010 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ミロカロス'], keyword : ['ミロカロス']
+ 2021-01-13 23:04:51,010 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - Not Match... ,  search pokemon : ['ギルガルド']
+ 2021-01-13 23:04:51,010 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['テッカグヤ'], keyword : ['テッカグヤ']
+ 2021-01-13 23:04:51,010 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['バンギラス'], keyword : ['バンギラス']
+ 2021-01-13 23:04:51,011 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ヒードラン'], keyword : ['ヒードラン']
+ 2021-01-13 23:04:51,011 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ポリゴン2'], keyword : ['ポリゴン2']
+ 2021-01-13 23:16:17,308 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - start function
+ 2021-01-13 23:16:17,376 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/battle_save.py - 'pokemon_battle_record.xlsx' sheet is ['input_template', 'S13', 'S13_statistics', 'S14', 'S14_statistics']
+ 2021-01-13 23:16:17,489 - DEBUG - src/main.py - 'pokemon_battle_record.xlsx' sheet is ['input_template', 'S13', 'S13_statistics', 'S14', 'S14_statistics']
+ 2021-01-13 23:16:17,491 - DEBUG - src/main.py - the kind of pokemons : 71
+ 2021-01-13 23:16:17,522 - DEBUG - /Users/nakamurakoyo/opt/anaconda3/lib/python3.8/site-packages/urllib3/connectionpool.py - Starting new HTTPS connection (1): yakkun.com:443
+ 2021-01-13 23:16:17,642 - DEBUG - /Users/nakamurakoyo/opt/anaconda3/lib/python3.8/site-packages/urllib3/connectionpool.py - https://yakkun.com:443 "GET /swsh/stats_list.htm HTTP/1.1" 200 None
+ 2021-01-13 23:16:17,906 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - num pokemon : 732
+ 2021-01-13 23:16:17,907 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['エースバーン'], keyword : ['エースバーン']
+ 2021-01-13 23:16:17,907 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['カイリュー'], keyword : ['カイリュー']
+ 2021-01-13 23:16:17,907 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - Not Match... ,  search pokemon : ['ウーラオス']
+ 2021-01-13 23:16:17,908 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ランドロス', <br/>, <span class="small">(れいじゅうフォルム)</span>], keyword : ['ランドロス', '(れいじゅうフォルム)']
+ 2021-01-13 23:16:17,908 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ウツロイド'], keyword : ['ウツロイド']
+ 2021-01-13 23:16:17,908 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ウオノラゴン'], keyword : ['ウオノラゴン']
+ 2021-01-13 23:16:17,909 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['サンダー'], keyword : ['サンダー']
+ 2021-01-13 23:16:17,909 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ナットレイ'], keyword : ['ナットレイ']
+ 2021-01-13 23:16:17,909 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ミミッキュ'], keyword : ['ミミッキュ']
+ 2021-01-13 23:16:17,909 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ボルトロス', <br/>, <span class="small">(れいじゅうフォルム)</span>], keyword : ['ボルトロス', '(れいじゅうフォルム)']
+ 2021-01-13 23:16:17,910 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['カバルドン'], keyword : ['カバルドン']
+ 2021-01-13 23:16:17,910 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['カミツルギ'], keyword : ['カミツルギ']
+ 2021-01-13 23:16:17,910 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ガブリアス'], keyword : ['ガブリアス']
+ 2021-01-13 23:16:17,911 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['カプ・レヒレ'], keyword : ['カプ・レヒレ']
+ 2021-01-13 23:16:17,911 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ドサイドン'], keyword : ['ドサイドン']
+ 2021-01-13 23:16:17,911 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['スイクン'], keyword : ['スイクン']
+ 2021-01-13 23:16:17,912 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ドラパルト'], keyword : ['ドラパルト']
+ 2021-01-13 23:16:17,912 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ラプラス'], keyword : ['ラプラス']
+ 2021-01-13 23:16:17,912 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['パッチラゴン'], keyword : ['パッチラゴン']
+ 2021-01-13 23:16:17,912 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ドヒドイデ'], keyword : ['ドヒドイデ']
+ 2021-01-13 23:16:17,913 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ゴリランダー'], keyword : ['ゴリランダー']
+ 2021-01-13 23:16:17,913 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ミロカロス'], keyword : ['ミロカロス']
+ 2021-01-13 23:16:17,913 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - Not Match... ,  search pokemon : ['ギルガルド']
+ 2021-01-13 23:16:17,913 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['テッカグヤ'], keyword : ['テッカグヤ']
+ 2021-01-13 23:16:17,914 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['バンギラス'], keyword : ['バンギラス']
+ 2021-01-13 23:16:17,914 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ヒードラン'], keyword : ['ヒードラン']
+ 2021-01-13 23:16:17,914 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ポリゴン2'], keyword : ['ポリゴン2']
+ 2021-01-16 13:58:32,043 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - start function
+ 2021-01-16 13:58:32,139 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/battle_save.py - 'pokemon_battle_record.xlsx' sheet is ['input_template', 'S13', 'S13_statistics', 'S14', 'S14_statistics']
+ 2021-01-16 13:58:32,472 - DEBUG - src/main.py - 'pokemon_battle_record.xlsx' sheet is ['input_template', 'S13', 'S13_statistics', 'S14', 'S14_statistics']
+ 2021-01-16 13:58:32,474 - DEBUG - src/main.py - the kind of pokemons : 74
+ 2021-01-16 13:58:32,655 - DEBUG - /Users/nakamurakoyo/opt/anaconda3/lib/python3.8/site-packages/urllib3/connectionpool.py - Starting new HTTPS connection (1): yakkun.com:443
+ 2021-01-16 13:58:32,845 - DEBUG - /Users/nakamurakoyo/opt/anaconda3/lib/python3.8/site-packages/urllib3/connectionpool.py - https://yakkun.com:443 "GET /swsh/stats_list.htm HTTP/1.1" 200 None
+ 2021-01-16 13:58:33,122 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - num pokemon : 732
+ 2021-01-16 13:58:33,122 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['エースバーン'], keyword : ['エースバーン']
+ 2021-01-16 13:58:33,123 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - Not Match... ,  search pokemon : ['ウーラオス']
+ 2021-01-16 13:58:33,123 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['サンダー'], keyword : ['サンダー']
+ 2021-01-16 13:58:33,123 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['カイリュー'], keyword : ['カイリュー']
+ 2021-01-16 13:58:33,124 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ランドロス', <br/>, <span class="small">(れいじゅうフォルム)</span>], keyword : ['ランドロス', '(れいじゅうフォルム)']
+ 2021-01-16 13:58:33,124 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ウツロイド'], keyword : ['ウツロイド']
+ 2021-01-16 13:58:33,124 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ウオノラゴン'], keyword : ['ウオノラゴン']
+ 2021-01-16 13:58:33,125 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ナットレイ'], keyword : ['ナットレイ']
+ 2021-01-16 13:58:33,125 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ミミッキュ'], keyword : ['ミミッキュ']
+ 2021-01-16 13:58:33,125 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ボルトロス', <br/>, <span class="small">(れいじゅうフォルム)</span>], keyword : ['ボルトロス', '(れいじゅうフォルム)']
+ 2021-01-16 13:58:33,126 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['カバルドン'], keyword : ['カバルドン']
+ 2021-01-16 13:58:33,126 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['カミツルギ'], keyword : ['カミツルギ']
+ 2021-01-16 13:58:33,126 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ガブリアス'], keyword : ['ガブリアス']
+ 2021-01-16 13:58:33,126 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['カプ・レヒレ'], keyword : ['カプ・レヒレ']
+ 2021-01-16 13:58:33,127 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ポリゴン2'], keyword : ['ポリゴン2']
+ 2021-01-16 13:58:33,127 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ドサイドン'], keyword : ['ドサイドン']
+ 2021-01-16 13:58:33,127 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['スイクン'], keyword : ['スイクン']
+ 2021-01-16 13:58:33,127 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ドラパルト'], keyword : ['ドラパルト']
+ 2021-01-16 13:58:33,127 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ラプラス'], keyword : ['ラプラス']
+ 2021-01-16 13:58:33,128 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['パッチラゴン'], keyword : ['パッチラゴン']
+ 2021-01-16 13:58:33,128 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ドヒドイデ'], keyword : ['ドヒドイデ']
+ 2021-01-16 13:58:33,128 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ゴリランダー'], keyword : ['ゴリランダー']
+ 2021-01-16 13:58:33,129 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ミロカロス'], keyword : ['ミロカロス']
+ 2021-01-16 13:58:33,129 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - Not Match... ,  search pokemon : ['ギルガルド']
+ 2021-01-16 13:58:33,129 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['テッカグヤ'], keyword : ['テッカグヤ']
+ 2021-01-16 13:58:33,129 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['バンギラス'], keyword : ['バンギラス']
+ 2021-01-16 13:58:33,130 - DEBUG - /Users/nakamurakoyo/programFile/python3/RPA_practice/my_project/pokemon/src/basestat_get.py - children element : ['ヒードラン'], keyword : ['ヒードラン']

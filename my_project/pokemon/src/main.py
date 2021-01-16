@@ -9,6 +9,7 @@ from basestat_get import BaseStat
 from pkmns_inc_party import PkmnsIncParty
 from search_excel_files import *
 from battle_save import *
+from replace_pkmn_name import *
 
 project_info = """
 \n---プロジェクト概要---
@@ -40,7 +41,7 @@ def battle_record():
       num_row = 7*i_btl+2+i_pkmn
       pkmn_input = {'name': None, 'use_order': None}
       pkmn_input['name'] = read_sheet['C{}'.format(num_row)].value
-      # pkmn_input['name'] = replace_pkmn_name(pkmn_input['name'])
+      pkmn_input['name'] = replace_pkmn_name(pkmn_input['name'])
       pkmn_input['use_order'] = read_sheet['D{}'.format(num_row)].value
       pkmns_from_excel.input(pkmn_input)
     i_btl += 1
